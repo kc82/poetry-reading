@@ -1,0 +1,1102 @@
+ID,READER,SUBSET,PROJ.,BOOK ID,CH. TITLE,PROJECT TITLE,SEX,NAME
+198,19,train-clean-100,219,121,Chapter 01,Northanger Abbey, F , Kara Shallenberg
+352,166,train-clean-360,381,84,04 - Chapter 5,"Frankenstein, or The Modern Prometheus", F , Paula Berinstein
+395,1724,train-clean-360,508,5682,1 Transition from the common rational knowledge of morality to the philosophical,Fundamental Principles of the Metaphysic of Morals, F , Anna Simon
+407,2952,train-clean-100,569,1210,Of A Mirror and a Bell,Kwaidan: Stories and Studies of Strange Things, M , Scott Carpenter
+495,26,train-clean-100,629,376,Part 1,Journal of the Plague Year, M , Denny Sayers
+668,920,train-clean-360,743,28054,06 - Book 2 Chapter 1 - They Arrive at the Monastery,Brothers Karamazov, F , Sarah Bean
+861,329,train-clean-360,762,3429,09 - The Siege of Hennebon,Saint George for England, M , Todd Cranston-Cuebas
+890,3945,train-clean-360,786,2775,"08 - Part 2, Section 2",Good Soldier, M , Floyd Wilde
+960,2961,test-clean,842,1572,01 - Introduction and Analysis: opening remarks,Timaeus, F , Leni
+1043,1112,train-clean-360,882,434,A SPRAINED ANKLE,Circular Staircase, M , RedToby
+1119,345,train-clean-360,969,1342,05 - Chapter 7,Pride and Prejudice (version 5), M , Micah Sheppard
+1180,1284,test-clean,1045,955,02 - The Crooked Magician,Patchwork Girl of Oz, F , Daniel Anaya
+1240,103,train-clean-100,1168,45,Mrs. Rachel Lynde Is Surprised,Anne of Green Gables (version 3), F , Karen Savage
+1532,1417,train-clean-360,1331,2607,04 Bat Jarvis,"Psmith, Journalist", F , Psuke Bariah
+1560,1748,train-clean-360,1337,325,01 - Chapter - 01,Phantastes, M , Brad Powers
+1730,56,train-clean-360,1545,1399,Book 1 - Chapter 01,"Anna Karenina, Book 1", F , Kirsten Ferreri
+1826,1995,test-clean,1591,15265,03 - Miss Mary Taylor,Quest of the Silver Fleece, F , AJai Hilton
+2271,4446,test-clean,1797,94,Chapter 02,Alexander's Bridge (version 3), F , Jen Maxwell
+2301,816,train-clean-360,1824,165,Chapter 17,McTeague, M , Jeff Robinson
+2327,7085,train-clean-360,1894,1477,Forewarned,Toys of Peace, M , voicebynatalie
+2476,2436,train-clean-100,1922,19066,04 - Chapter 04,Brigands of the Moon, M , Seth Adam Sher
+2536,1806,train-clean-360,1930,2275,00 - Introduction,"Pioneers, or The Sources of the Susquehanna", M , Gary W. Sherwin
+2772,4108,train-clean-360,1985,2005,Mrs. Pett Takes Precautions,Piccadilly Jim, M , garymacf
+3054,83,train-clean-100,2041,3154,Chapter 15,Surprising Adventures of Baron Munchausen, F , Catharine Eastman
+3185,6019,train-clean-100,2116,1831,"The Avenger, part 1",Lock and Key Library, M , DerekP
+3582,4116,train-clean-360,2199,2770,Polly is Comforted,Five Little Peppers and How They Grew (Version 2), F , Amy Benton
+3961,8080,train-clean-360,2312,19264,Hollyhock,Genji Monogatari (The Tale of Genji), F , e.a.zokaites
+3979,2830,test-clean,2319,1549,00 - Preface,Commentary on St. Paul's Epistle to the Galatians, M , Tim Perkins
+4136,2816,train-clean-360,2354,2046,01 - The Negro Sale,"Clotel, or, The President's Daughter", M , Andrew Symons
+4275,2971,train-clean-360,2405,5265,01 - A Discussion Somewhat in the Air,Ball and the Cross, M , Matthew C. Heckel
+4445,30,train-clean-360,2457,158,"1-01 Volume 1, Chapter 1",Emma (version 4), F , Annie Coleman Rothenberg
+4654,2598,train-clean-360,2494,17125,The Knight at Arms,More William (version 2), F , Barbara Bulkeley
+4687,3228,train-clean-360,2495,1252,Bk 12 Chapters 08-14,Morte d'Arthur - Vol. 2, F , Benuathanasia
+4731,209,train-clean-360,2497,158,"Volume One, Chapter Three",Emma (version 5), F , Moira Fogarty
+4861,5389,train-clean-360,2525,7277,23 - King Kojata,Green Fairy Book, M , Joseph Lawler
+4923,3807,train-clean-100,2528,3424,Book 02  Macquarie Harbour. 1833. Chapter 10  John Rex's Revenge,For the Term of His Natural Life, M , Jesse Noar
+5083,5333,train-clean-360,2545,7025,10 - Vol.1 Chp 4,Rob Roy, M , Robert Fletcher
+5140,2136,train-clean-100,2558,14851,A New Face,Uncle Silas, M , Great Plains
+5330,1066,train-clean-360,2575,3322,04 - Ch. 04: The Moonlight Interview,East Lynne, F , Laurie Anne Walden
+5416,3448,train-clean-360,2592,4675,The Hues of Love,Sea-Witch, M , Todd Lennon
+5694,3570,test-clean,2635,833,"07 - Chapter IV - Conspicuous Consumption, Part One",Theory of the Leisure Class, F , sarac
+5757,3215,train-clean-360,2641,6086,VII - Bothwell Castle.,Scottish Chiefs, F , Shirley Ellen
+5909,3118,train-clean-360,2656,4705,00 - Contents,"Treatise Of Human Nature, Volume 1", M , George Yeager
+6171,4519,train-clean-360,2676,5676,Chapter 03,Lost Princess, F , Mimi Wang
+6379,1578,train-clean-100,2695,21048,04 - The Third Man from the End,Just Patty, F , Lorelle Anderson
+6397,4257,train-clean-360,2699,2021,Part 1: Chapter 06 pt 1,Nostromo, M , garbageman99
+6498,4356,train-clean-360,2702,6801,A Visit and Its Consequences,Beverly Of Graustark, F , Patricia Rutledge
+6524,2299,train-clean-360,2713,11579,"08 - Chapter IV, Settling In, Part One",Journals of Robert Falcon Scott Vol 1, M , cpalmer17
+6852,3729,test-clean,2733,2981,"Episode 6, Chapter 6 part 1",Memoirs of Jacques Casanova Vol. 2, F , Heather Hogan
+7146,4214,train-clean-100,2759,45,Diana Is Invited to Tea with Tragic Results,Anne of Green Gables (version 5), F , A. Janelle Risa
+7235,2149,train-clean-360,2772,26361,42 - Colossians,Bible (ABU) NT 01-27: The New Testament, M , Mark Penfold
+7371,2201,train-clean-360,2810,3300,"Ch. 4, Of Drawbacks","Wealth of Nations, Book 4", M , Stephen Escalera
+7574,3171,train-clean-360,2828,621,Postscript,Varieties of Religious Experience, M , JoeD
+7591,3521,train-clean-360,2832,2148,"Masque of the Red Death, The","Works of Edgar Allan Poe, Raven Edition, Volume 2", M , NickNumber
+7622,4290,train-clean-360,2834,1188,Chapter 10,Lair of the White Worm (Version 2), M , Joshua Paul Johnson
+7678,5322,train-clean-100,2840,4761,20 - Chapter XX,Cossacks, M , Jay Bidal
+7741,3513,train-clean-360,2848,5632,The Secret,Five Little Peppers Midway, F , Symmie
+7763,7148,train-clean-100,2850,10378,"Chapter 5, A Crisis in My Mental History, Part 1",Autobiography, F , Vickie Ranz
+7793,5186,train-clean-360,2852,9072,1772 part 3,Life of Samuel Johnson Vol. II, M , Brendan Brown
+7884,3551,train-clean-360,2863,5090,Chapter 2 - Citizen-Deputy,I Will Repay, F , Annie Kirkpatrick
+7943,3083,train-clean-360,2869,4735,01 - Inscriptions and Chapter 1,Shepherd of the Hills, F , Emily Jarmard
+8112,3242,train-clean-100,2907,21510,Chapter 07,Legacy, M , peac
+8140,925,train-clean-360,2920,16739,04 The Greatest Thing In the World:  The Analysis Part II,Greatest Thing in the World and Other Addresses, F , pattymarie
+8226,3536,dev-clean,2935,5140,Mr Bozzle at Home,He Knew He Was Right, F , Arielle Lipshaw
+8592,7739,train-clean-360,2992,14168,10 - The Rocker,Widdershins (Version 2), F , Melissa Burns-Price
+8674,5810,train-clean-360,3011,2435,13 - The Strong Prince,Crimson Fairy Book, M , Patrick Reinhart
+8890,3549,train-clean-360,3027,482,Chapter 10,Woodlanders, F , Katie Riley
+9006,2902,dev-clean,3044,6308,Preface (3648 words),Hypatia, M , dexter
+9174,3221,train-clean-360,3065,4602,"11 - The christian conception of life has already arisen in our society, and will infallibly put an end to the present organization of our life based on force--When that will be",Kingdom of God is within you, M , David Schoepf
+9203,3549,train-clean-360,3073,12758,The Torture by Hope,"Library of the World's Best Mystery and Detective Stories, Volume 4", F , Katie Riley
+9321,3546,train-clean-360,3087,8867,Chapter 03,Magnificent Ambersons (Growth Trilogy Vol 2) Version 2, F , Jeannie
+9554,3112,train-clean-100,3114,5978,Preface,Autobiography of Anthony Trollope, F , Jessica Louise
+9914,3889,train-clean-360,3158,135,<b>Bk 01</b> Ch 01-04,Miserables Vol. 3, F , Alina
+10088,3914,train-clean-360,3171,1093,03 - Chapter III,Beast in the Jungle, M , Rob James
+10160,4495,train-clean-360,3185,1438,"05 - 1st Scene, Chapter 5",No Name, M , Dillon Stiles
+10327,3009,train-clean-360,3204,17611,01 - Question. 50 - OF THE SUBSTANCE OF THE ANGELS ABSOLUTELY CONSIDERED (FIVE ARTICLES),"Summa Theologica - 03 Pars Prima, Angels and the Six Days", M , Jim Ruddy
+10594,1970,train-clean-100,3230,21904,He Will Never Forgive,Millionaire Baby, F , Dawn Larsen
+10642,7316,train-clean-360,3240,4939,12 X. The Ballades: Faery Dramas,Chopin: the Man and His Music, F , Joy S Grape
+10673,1337,train-clean-360,3241,128,"The Story of the First Calendar, Son of a King",Arabian Nights Entertainments, M , Steven Rushing
+10798,4010,train-clean-360,3264,9057,06 - The Heart with the Treasure,Unspoken Sermons, M , David Baldwin
+10927,4051,train-clean-100,3273,1399,Book 2 Chapter 09,"Anna Karenina, Book 2", F , Liz Devens
+10988,5489,train-clean-360,3274,5670,Chapter 07,Jacob's Room, F , LizMourant
+11049,4363,train-clean-360,3276,1709,Chapter 30 - Waiting on Destiny,New Grub Street, F , Emily Livingston
+11077,4054,train-clean-360,3279,8995,Chapter 2: An invitation,What Katy Did Next, M , Ryan Gubele
+11217,4051,train-clean-100,3292,976,The Golden Fleece (Part 3),Tanglewood Tales, F , Liz Devens
+11243,666,train-clean-360,3298,35505,13 - The Bazaar,Anna of the Five Towns, F , Monique
+11254,4057,train-clean-360,3299,2686,Great City Snobs,Book of Snobs, F , RoseA
+11512,3994,train-clean-360,3314,29255,The Attack from Space,"Astounding Stories 09, September 1930", F , Miriam Esther Goldman
+11546,4098,train-clean-360,3315,27990,Chapter 3 Part 1: The meeting,Theo, F , Rachell Lovett
+11599,3235,train-clean-100,3318,19499,10- Measure,Music Notation and Terminology, F , Karen Commins
+11691,83,train-clean-100,3337,27771,10 - Chapter 9 - They are Afraid of Udo,Once on a Time, F , Catharine Eastman
+11714,3664,train-clean-100,3339,2741,1-02 - The Borgias: Prologue,"Celebrated Crimes, Vol. 1", M , Barry Eads
+12085,4057,train-clean-360,3378,21892,A Night's Work,At the Time Appointed, F , RoseA
+12312,254,train-clean-100,3399,8166,Chapter 1.LVIII.A prophetical Riddle,"Gargantua and Pantagruel, Book I", M , Alan Davis Drake (1945-2010)
+12332,28,train-clean-360,3401,30970,01 - The Adventure of the Cantankerous Old Lady,Miss Cayley's Adventures, F , Kristin Hughes
+12359,2911,train-clean-100,3406,14293,"""Fit for Drink""",Complete Book of Cheese, M , David Lawrence
+12471,4427,train-clean-360,3413,2848,"16 - Book 3, Ch 01","Antiquities of the Jews, Volume 1", F , Lynne Handler
+12529,3830,train-clean-100,3415,29543,11 - Hunting for Another Home Site,Ox-Team Days on the Oregon Trail, M , rymd80
+12707,4226,train-clean-360,3422,28452,01- Meat Part 1,American Housewife, M , Jud Niven
+12761,5778,train-clean-100,3423,7882,24 - Chapter 24,Life of Kit Carson, F , Laura Victoria
+12895,4238,train-clean-360,3434,8859,01 - A Frontier Farm,True to the Old Flag, F , Chela
+12926,4152,train-clean-360,3435,1482,02 - A Portrait from Life,Modeste Mignon, M , Ata Khudayberdiev
+12971,3025,train-clean-360,3439,25474,Part 1 - The City; Ch 1,Job, F , MichelleHarris
+13006,4297,train-clean-100,3440,2158,"Ch 05: ""No One Knows Anything About Him""",Prime Minister, F , Tina Horning
+13185,4860,train-clean-360,3448,16349,26 - The Isle Of Blasted Hopes,Book of the Bush, M , Jonah Cummings
+13247,3389,train-clean-360,3466,4540,03 - Chapter 3,In His Steps, M , von
+13364,5724,train-clean-360,3475,2351,26 - Chapter 26,"John Halifax, Gentleman", F , paintgirl
+13751,4077,test-clean,3484,5630,Chapter 02,Story of 'Mormonism', M , Nathan Markham
+14013,4145,train-clean-360,3499,12669,Chapter 22,"Marriage, volume 1", F , Patti Cunningham
+14133,5339,train-clean-100,3503,4537,17 - The Engagement,Sylvia's Lovers, F , Lauren McCullough
+14187,4160,train-clean-100,3505,11128,08 - Chapter 08 - A Suspicious Accident,Red Thumb Mark, F , Rosie
+14274,3003,train-clean-360,3509,6823,1871,"Army Letters from an Officer's Wife, 1871-1888", F , Sue Anderson
+14358,1401,train-clean-360,3518,4927,Rinaldo and Bayard,Legends of Charlemagne, F , Sibella Denton
+14497,4425,train-clean-360,3530,2876,Chapter 10,Light That Failed, M , Gary Coy
+14526,4290,train-clean-360,3531,12369,Selections from The History of the United States,"Library of the World's Best Literature, Ancient and Modern, volume 1", M , Joshua Paul Johnson
+14653,1212,train-clean-360,3538,481,14 - Chapter 14,In the Bishop's Carriage, F , Lee Ann Howlett
+14672,3615,train-clean-360,3540,10011,February,365 Foreign Dishes, F , Lucy Perry
+14897,4381,train-clean-360,3551,10991,Chapter 7 - The Dalmatian,Dogs and All About Them, F , Denise Resnik
+14958,6206,train-clean-360,3552,30006,06 - Chapter 6,Cloudy Jewel, F , Yvonne Smith
+15045,2911,train-clean-100,3560,6933,Intro. pt 01: Native Tribes: Divisions,Jesuits in North America in the 17th Century, M , David Lawrence
+15220,4340,train-clean-100,3569,3795,13 - Somebody Runs Away,Under the Lilacs, F , kiwafruit
+15304,4839,train-clean-360,3574,11953,Ch 27 The Wars of Italy--Louis XII (1498-1515) pt 1,Popular History of France from the Earliest Times vol 3, F , Julie K. Rose
+15446,688,train-clean-360,3583,19019,Potash - Phosphorous,Aids to Forensic Medicine and Toxicology, F , J. M. Smallheer
+15663,4362,train-clean-100,3592,326,04 - A Perilous Night on Shasta's Summit,Steep Trails, F , Michelle Montano
+15787,5688,train-clean-100,3597,1000010,"04 - Part 2, Section 2",Autobiography of Cockney Tom, F , Jennifer Dionne
+16002,4490,train-clean-360,3608,135,Bk 01 Ch 03,Miserables Vol. 4, F , Rachel Weaver
+16632,1752,train-clean-360,3639,15709,01 - Chapters 1 - 4,Christmas Angel, F , Jan MacGillivray
+16802,4433,train-clean-360,3652,28900,People to Perverse,English Synonyms and Antonyms, M , Ken Sterry
+16882,4406,train-clean-100,3653,851,01 - part 1,Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson, M , Matthew Scott Surprenant
+17498,4481,train-clean-100,3683,16566,01 - Prefatory; The Doyles are Astonished,Aunt Jane's Nieces Abroad, F , margo zinberg
+17615,3493,train-clean-360,3686,34426,25 - Chapter 25,Enchanted Barn, F , Gail Mattern
+17942,2156,train-clean-360,3696,18149,08 - Chapter 8,"Conjuror's House, a Romance of the Free Forest", M , Roger Melin
+18004,4590,train-clean-360,3699,3810,08  Chapter VIII - THE DEATH OF THE FIRST MAN-EATER,Man-Eaters of Tsavo, M , Diapadion
+18515,5163,train-clean-100,3724,6987,14 - The Island of Marken,Five Little Peppers Abroad, F , LilyAnne
+18533,4495,train-clean-360,3726,1355,02 - On the Road,Underground City or the Child of the Cavern, M , Dillon Stiles
+19132,4064,train-clean-360,3760,5829,Chapter 09,Moneychangers, F , Margaret Espaillat
+19187,4640,train-clean-100,3762,135,Bk 1 Ch 2-3,Miserables Vol. 5, F , Karen Mason
+19361,3032,train-clean-360,3766,28613,Lecture III: Kepler and the Laws of Planetary Motion,Pioneers of Science, M , Utek
+19396,5192,train-clean-100,3767,1079,Chapter 38-42,"Life and Opinions of Tristram Shandy, Gentleman, Vol. 4", M , Jason Esteves
+19585,3816,train-clean-360,3772,11323,Volume the Second  Chapter 04,Caleb Williams or Things As They Are, F , Bev J Stevens
+19665,4586,train-clean-360,3773,24210,34 - Coming to an Understanding.,Deerbrook, M , Chris Caron
+20016,4898,train-clean-100,3788,17189,01 - Christmas Revived,"Autumn Leaves, Original Pieces in Prose and Verse", M , greatbasinrain
+20410,4856,train-clean-360,3802,12187,"05 - Chapter 3 - ""A Chiel's Amang Ye Takin' Notes"", part 2",Mystery of 31 New Inn, M , Steven Seitel
+21305,6189,train-clean-360,3834,13728,Bk. 3 Ch. 6,Marcella, F , Shana Cohen
+21393,4289,train-clean-360,3836,3722,The Winged Victory,Daughter of the Land, F , Veronica Jenkins
+21493,3717,train-clean-360,3840,5615,The Wounded Lion,Pink Fairy Book, M , Elliott Miller
+21625,32,train-clean-100,3844,6754,01 - A Queer Place to Live,Tale of Brownie Beaver, F , Betsie Bush
+22176,4859,train-clean-100,3859,2600,Chapter 15,"War and Peace, Book 15: 1812-1813", M , nathank
+22574,2589,train-clean-360,3871,5750,Dorothy and Richard (Part 1),"St. George and St. Michael, Volume 1", M , Jordan
+23268,3536,dev-clean,3894,22002,07 - Volume I - Chapter 7,Simple Story, F , Arielle Lipshaw
+24512,5390,train-clean-100,3926,30908,Chapter 9 - The Destruction of Jerusalem,Bible in Its Making, M , Charles Bice
+24615,5338,dev-clean,3932,4964,13 - Chapter VIII: A Scottish Manor-House Sixty Years Since,"Waverley, Volume 1", F , S R Colon
+24731,4854,train-clean-360,3935,3800,"1-04-Part I, Propositions 11 to 15",Ethics, M , Doctor_wu
+24833,1988,dev-clean,3939,24921,"18 - ""Here's to Cat!""","It's Like This, Cat (Version 2)", F , Ransom
+25563,2156,train-clean-360,3969,30228,In Which Bluff is Trumps,Officer 666, M , Roger Melin
+25765,4719,train-clean-360,3978,29786,01 - Chapter 1,Raiding with Morgan, M , M. Craun
+25898,4830,train-clean-100,3982,26041,06- Madam Cluck and her Family,Aunt Jo's Scrapbag, M , George Aalto
+25947,5049,train-clean-100,3985,3050,03 - The Spanish-American War: The Rough Riders at Guasimas,Notes of a War Correspondent, M , Bradley Smith
+26100,1970,train-clean-100,3990,22781,The Answer,32 Caliber, F , Dawn Larsen
+26496,5093,train-clean-360,4002,2848,"14 - Book 7, Ch 08","Antiquities of the Jews, Volume 2", F , Nicole Kay
+26553,4967,train-clean-360,4003,24714,07 -  	How the Speckled Hen Got Her Speckles,Fairy Tales from Brazil, F , Karen
+26685,5290,train-clean-360,4008,32429,In which Cassandra visits David Thryng's Ancestors,Mountain Girl, F , Natalie
+26852,4807,train-clean-360,4015,15705,05 - M-Q,Silly Syclopedia, F , Fuzz
+26870,4859,train-clean-100,4016,2600,Chapter 08,"War and Peace, Book 16: First Epilogue 1813-1820", M , nathank
+26894,4806,train-clean-360,4017,2197,Chapter 1,Gambler, M , Jason Ingolfsland
+26947,5115,train-clean-360,4018,24020,22 - The Prisoners,Romola, F , Terry Goodyer
+27120,1259,train-clean-360,4023,1342,Chapter 8,Pride and Prejudice (version 4), F , Elizabeth Klett
+27504,5126,train-clean-360,4033,1198,Chapter 44,Robbery Under Arms, M , Tom Lennon
+27593,1335,train-clean-360,4039,12069,Entrees,Joe Tilden's Recipes for Epicures, F , Clarica
+27670,4853,train-clean-100,4043,22215,Chapter 3,Frozen Pirate, F , Barbara Derksen
+27760,254,train-clean-100,4045,13437,Vanka,Best Russian Short Stories, M , Alan Davis Drake (1945-2010)
+28233,5105,test-clean,4060,1353,"02 - Book 1, Chapter 2",Off on a Comet, M , elongman
+28375,3357,train-clean-360,4063,26117,03 - ROMAN WOMEN. LAWS AND CUSTOMS RESPECTING THE ROMAN WOMEN.,Sketches Of The Fair Sex, F , swade
+28415,1970,train-clean-100,4064,19087,12 - In Jerusalem,King Nobody Wanted, F , Dawn Larsen
+28433,3235,train-clean-100,4066,22409,07 - Going to Nome,Woman Who Went to Alaska, F , Karen Commins
+28461,4898,train-clean-100,4067,7345,04 - The Stickeen River,Travels in Alaska, M , greatbasinrain
+28868,4967,train-clean-360,4090,3622,30 - What Came of the Meeting,Duke's Children, F , Karen
+29012,3967,train-clean-360,4093,643,Chapter IX,Death of the Lion, F , Christine Dufour
+29090,4945,train-clean-360,4097,3178,09 - Chapter 9,Gilded Age, M , Charles RUHE
+29340,4859,train-clean-100,4104,2600,Chapter 02,"War and Peace, Book 17: Second Epilogue", M , nathank
+29405,5022,train-clean-100,4107,3634,06 - The Return of the Portfolio,Guilty River, F , Kathleen Costa
+30096,5390,train-clean-100,4131,10359,01 - Uncle John's Farm,Aunt Jane's Nieces at Millville, M , Charles Bice
+30591,5133,train-clean-360,4147,24873,Kismet,"Lucy Maud Montgomery Short Stories, 1896 to 1901", F , Jo Karabasz
+31089,5012,train-clean-360,4165,21004,06 - The Skull and the Rose,Singing Mouse Stories, F , Morgan Schlicker
+31603,5007,train-clean-360,4184,1560,Fighting Flames with Dynamite,San Francisco Calamity by Earthquake and Fire, F , Kathleen Nelson
+31668,4744,train-clean-360,4185,11377,06 - Chapter VI,Man Whom the Trees Loved, F , Amy Gramour
+31957,908,test-clean,4199,2002,4 - Chapters 31-44,Sonnets from the Portuguese (version 2), M , Sam Stinson
+32135,5147,train-clean-360,4207,4032,34  [Part V. The Colonies of Atlantis]: Chapter I. The Central American and Mexican Colonies.,Atlantis: The Antediluvian World, M , Cody2
+32451,5063,train-clean-360,4219,9405,01 - Chevy Chace,Book of Old English Ballads, F , susanfrom
+32637,4899,train-clean-360,4228,2515,03 - Chapter 3,Stepping Heavenward (version 2), F , Theresa L. Downey
+32856,6014,train-clean-360,4238,9983,01 - Relating How I Rode Through The Village Of Gylingden With Mark Wylder's Letter In My Valise,Wylder's Hand, F , Tina Nuzzi
+33396,5142,test-clean,4260,24811,"03 - Part I, Olaf's farm",Viking Tales, F , Mary Ballard-Johansson
+34478,5400,train-clean-360,4311,1399,"Book 3, Chapter 3","Anna Karenina, Book 3", F , Natalie Sullivan
+34572,5123,train-clean-360,4314,12587,"004 - Part I, Book the First, Chapter I - Portland Bill",Man Who Laughs, M , wvthcomp
+35690,5750,train-clean-100,4356,10800,"30 - Partition 2, Section 4 , Member 1, Subsection 1",Anatomy of Melancholy Volume 2, M , laurencetrask
+35921,5242,train-clean-360,4360,2893,01 - Chapter 1 - The Deputation,Wizard, M , Michael Monhollon
+36146,2149,train-clean-360,4365,3127,15 - The Heart of New England,Being a Boy, M , Mark Penfold
+36377,5142,test-clean,4373,7891,02 - THE NEW FACES,Dead Alive, F , Mary Ballard-Johansson
+36586,5142,test-clean,4384,2300,II On Manner of Development of Man from some Lower Form pt.1,"Descent of Man and Selection in Relation to Sex, Part 1", F , Mary Ballard-Johansson
+36616,2764,train-clean-100,4385,2488,02 - Pros and Cons,Twenty Thousand Leagues Under the Sea (Version 2), F , Piper Hale
+36956,5126,train-clean-360,4400,32393,02 - Toby Runs Away From Home,Toby Tyler or Ten Weeks with a Circus, M , Tom Lennon
+37090,5337,train-clean-360,4407,27726,"Part 1, chapter 4",Tolstoy on Shakespeare, F , Danielle
+37134,1195,train-clean-360,4410,7129,02 - Introduction,Prospective Mother, F , Jennette Selig
+37999,5189,train-clean-360,4434,1446,A Chapter for Schoolgirls,Perfect Behavior, M , Samanem
+38026,5583,train-clean-360,4436,30973,11 - The Widow's Son,East of the Sun and West of the Moon, F , Claudia Wilson
+38660,4800,train-clean-360,4459,3633,"19 - Part 1, Chapter 19",Jezebel's Daughter, F , Mary Herndon Bell
+39173,5463,train-clean-100,4471,2860,"21 - Why Puck, the Pony, Was Beaten",Framley Parsonage, M , GLM
+39475,5290,train-clean-360,4481,10337,01 - Mrs. Silvia Tebrick is all of a sudden a fox.,Lady Into Fox, F , Natalie
+39501,3092,train-clean-360,4482,4204,Ch. VII: The Sea and its Shores,Elements of Geology, F , Maggie Russell
+39616,4071,train-clean-360,4485,2609,02 - The Messenger,Vicomte De Bragelonne, F , Nichelle von Lauder
+39749,5093,train-clean-360,4486,2848,"08 - Book 12, Ch 03","Antiquities of the Jews, Volume 3", F , Nicole Kay
+39840,3645,train-clean-360,4488,1399,05 - Chapter 5,"Anna Karenina, Book 4", F , MaryAnn
+39910,5740,train-clean-360,4490,24874,The Josephs' Christmas,"Lucy Maud Montgomery Short Stories, 1902 to 1903", F , Alisa
+39938,5652,train-clean-100,4491,22775,The General Methods of Psychotherapy,Psychotherapy, F , amicrazy2u
+39967,7957,train-clean-360,4492,852,07 - The Democratic Conception in Education,Democracy and Education: An Introduction to the Philosophy of Education, M , Wiley Combs
+40544,6446,train-clean-360,4518,12788,Excerpts from Beowulf,"Library of the World's Best Literature, Ancient and Modern, volume 2", M , Bob Gonzalez
+40744,5639,test-clean,4527,14420,22 - The Force of Blood,Exemplary Novels of Miguel de Cervantes Saavedra, M , Ulf Bjorklund
+41151,5266,train-clean-360,4544,1399,"Book 6, Chapter 11","Anna Karenina, Book 6", F , Jill
+41232,5688,train-clean-100,4545,13610,28 Appendix A: The Influence of Menstruation on the Position of Women,"Studies in the Psychology of Sex, Volume One", F , Jennifer Dionne
+41259,5583,train-clean-360,4549,31100,"Love and Freindship, Part 3 (Letters 14-15)",Jane Austen's Juvenilia, F , Claudia Wilson
+41610,6054,train-clean-360,4557,17811,10 - Julia Performs a Sacred Duty,"Grace Harlowe's Junior Year at High School; or, Fast Friends in the Sororities", F , Leslie Stevens Suhy
+41797,4992,test-clean,4566,10540,18 - The House of Lords,Mother Careys Chickens, F , Joyce Martin
+41911,5389,train-clean-360,4568,6746,05 - Janni and the Draken,Grey Fairy Book, M , Joseph Lawler
+41997,6081,train-clean-100,4570,4071,14,Monsieur Lecoq Part 1: The Inquiry, M , Lazuli
+42637,5319,train-clean-360,4593,16158,09 - Chapter 9,Facts of Reconstruction, M , Guero
+43296,5723,train-clean-360,4617,14021,"02 - Book 1 - The Advent: Chapter 1, Part 2",Lord of the World, F , Linda Hogan
+43358,5536,dev-clean,4618,340,01 - Ch 01 - The Great Mystery,Soul of the Indian, M , David Mix
+44575,4973,train-clean-360,4655,16317,Ch. I: Acquiring Confidence Before an Audience,Art of Public Speaking, M , Michael Lipschultz
+44912,6160,train-clean-360,4671,137,Part 2,"Sara Crewe: or, What Happened at Miss Minchins Boarding School (version 2)", F , FaithR
+44937,4358,train-clean-360,4673,1325,Chapter 16 - Arts at Hull House,Twenty Years at Hull House, M , Kim Stich
+45204,4595,train-clean-360,4683,12441,08 - A String of Gold Beads,House of a Thousand Candles (version 2), M , Eric Leach
+46240,5684,train-clean-360,4721,2300,IX - Secondary Sexual Characters in the Lower Classes of the Animal Kingdom,"Descent of Man and Selection in Relation to Sex, Part 2", F , Elsa Youngsteadt
+46267,5655,train-clean-360,4722,12317,The Valentine Party,Two Little Knights of Kentucky, F , Christine Rodriguez
+46588,688,train-clean-360,4734,33410,19 - My Blue Gum Grove,A-Birding on a Bronco, F , J. M. Smallheer
+46712,3493,train-clean-360,4738,9102,"40, ""So Shall ye Reap""",Run to Earth, F , Gail Mattern
+46889,5776,train-clean-360,4748,21069,A Cape Horn Gale,For Treasure Bound, M , Chris Pauley
+47030,5727,train-clean-360,4753,8128,03 Incense,In Ghostly Japan, M , JDavidMoore
+47198,5703,train-clean-100,4763,9746,02 Chapter II,Ashiel Mystery - A Detective Story, M , Garth Comira
+47237,5157,train-clean-360,4764,15437,"Letters from Sir William Hamilton to Lady Hamilton, Letters 10-17","Letters of Lord Nelson to Lady Hamilton, Volume II", M , drewmac
+47246,3699,train-clean-100,4765,17780,Amos Barton - 04,Scenes of Clerical Life, M , Bruce Pirie
+47541,6918,train-clean-360,4776,10800,"05 - Partition 3, Section 1, Member 3",Anatomy of Melancholy Volume 3, F , Marilyn Mack
+47824,118,train-clean-100,4784,10869,13 - The Amazing Meeting in the Shadows of the Old Courtyard - part 1,Abandoned Room, M , Alex Buie
+48032,6119,train-clean-360,4794,308,Chapter 6,Three Men in a Boat (To Say Nothing of the Dog) (version 2), M , Vinnie Tesla
+48361,5746,train-clean-360,4806,2848,"09 - Book 17, Ch 05","Antiquities of the Jews, Volume 4", M , DL Pead
+48513,4438,train-clean-360,4812,34366,03 - Chapter III,Vera, M , Greg W.
+48579,5767,train-clean-360,4813,3438,06 - Two Hundred and Fifty-fifth Night to Two Hundred and Fifty-seventh Night,"Book of A Thousand Nights and a Night (Arabian Nights), Volume 04", M , taijohn
+48830,5618,train-clean-360,4820,4599,32 - Pawkins's in Jermyn Street,Small House at Allington, F , Shirleyroses
+49750,5723,train-clean-360,4854,11417,The Lay of The Two Lovers,French Mediaeval Romances from the Lays of Marie de France, F , Linda Hogan
+50561,174,dev-clean,4884,2032,Introduction,Martin Pippin in the Apple Orchard, M , Peter Eastman
+50776,5731,train-clean-360,4897,721,"4 - ""Birds of a Feather Flock Together""",Birds' Christmas Carol (version 2), F , Andrea Boltz
+51162,5809,train-clean-360,4914,3642,10 - Off the Tow-path,Belgian Twins, F , kattekliek
+52087,5914,train-clean-360,4949,14681,Gun-fittings and Ammunition,Art of Travel, M , bobbybrill
+52195,4438,train-clean-360,4954,1056,12 - Chapter XII,Martin Eden, M , Greg W.
+53320,6550,train-clean-360,4997,2048,09 - The Art of Book-making,"Sketch Book of Geoffrey Crayon, Gent.", M , elfpen
+53458,5635,train-clean-360,5002,4357,05 - The Enchanted Types,American Fairy Tales, M , Matthew Reece
+53638,816,train-clean-360,5008,24022,Stave 05,Christmas Carol (Version 3), M , Jeff Robinson
+54006,5975,train-clean-360,5023,1751,04 - The Talisman of Solomon (Part II),Twilight Land, M , Tony Maxey
+54108,587,train-clean-100,5031,1839,Chapter XV,Other Things Being Equal, F , Joy Scaglione
+54425,5808,train-clean-100,5053,17854,14 - Frankenstein,Sport of the Gods, M , jeandelfrio
+54487,6317,train-clean-360,5056,16960,7 - President Wilson and the World War (continued),"History of the United States, Vol. VII", F , Sarah K
+54535,5778,train-clean-100,5058,32628,25 - James McNeill Whistler,Child's Book of American Biography, F , Laura Victoria
+54613,5940,train-clean-360,5064,29021,03 - Blue Beard,Fairy Tales of Charles Perrault, M , Gargoyle
+54659,5868,train-clean-360,5066,4605,03 - Part 1 chapter 3,Basil, M , alwpoe
+55088,5868,train-clean-360,5080,1697,Preface,Madam How and Lady Why, M , alwpoe
+55202,5968,train-clean-360,5084,362,Old Friends and New,Miss Billy's Decision, F , Cate Barratt
+55856,5304,train-clean-360,5106,6955,"Chapter 15, The Honeyed Word",Prince and Betty, M , Don W. Jenkins
+55927,5935,train-clean-360,5112,31243,CH.6 SHIPS,Twentieth Century Inventions: A Forecast, M , Mike Okonek
+56165,6064,train-clean-100,5121,34944,10 - A Sophomore,"Brenda, Her School and Her Club", F , Deborah Knight
+56222,6032,train-clean-360,5123,15419,05 - Letter V Society - Conversation,Letters to a Daughter and A Little Sermon to School Girls, F , Beverly Scott
+56574,5189,train-clean-360,5141,18465,"Letter, A","Wit and Humor of America, Vol 02", M , Samanem
+56777,6038,train-clean-360,5148,34912,"Woman's Long Struggle for Things of the Mind, Part 2",Woman in Science, F , Sirmelja
+56837,5984,train-clean-360,5150,171,24 - Mystery Developed,Charlotte Temple, F , sbburke
+57154,6075,train-clean-360,5163,5118,11 - Volume I Chapter 11,American Senator, M , Rob Smith
+57405,6319,dev-clean,5170,11582,04 - The Flood,Old Greek Stories, F , thestorygirl
+57446,6476,train-clean-100,5171,13015,"The Eta Maiden and the Hatamoto, part 2",Tales of Old Japan, F , Viridian
+57667,6499,train-clean-360,5185,27435,"28 - Chapter 26, Part 2 - The Sacrament of Penance: On The Relative Morality Of Catholic And Protestant Countries",Faith of Our Fathers, M , dave7
+57831,6006,train-clean-360,5195,19910,"18 - Haig, part 2",Boys' Book of Famous Soldiers, F , Stephanie Lee
+58012,6080,train-clean-360,5204,6711,Chapter 01,Philip Dru: Administrator, M , progressingamerica
+58090,6060,train-clean-360,5206,273,0 - Preface,Smalcald Articles, M , Jonathan Lange
+58137,5635,train-clean-360,5208,18734,Selecting the Faculty,"Wit and Humor of America, Vol 03", M , Matthew Reece
+58192,6032,train-clean-360,5209,24968,Ch. 1 - Where I was Born,Behind the Scenes, F , Beverly Scott
+58433,6115,train-clean-360,5216,3030,10 - The Escape,Tavern Knight, M , MitchHerd
+58763,5809,train-clean-360,5227,33405,14 - Air - Chapter XIV. How Dew is Formed,"Nature's Miracles: Familiar Talks on Science, Vol. 1.", F , kattekliek
+58843,6104,train-clean-360,5229,21647,Chapter 1,Subspace Survivors, F , Juliana M.
+58868,6139,train-clean-360,5232,15741,01 - The Invitations Are Sent,Little Colonel's House Party, F , Lois C. Johnson
+59157,7148,train-clean-100,5244,12600,08 - Ch.5.i - Keats: 1. The Biography,Old and New Masters, F , Vickie Ranz
+59234,6037,train-clean-360,5246,35211,15 - Above All Let Us Never Forget!,War, M , bish
+59268,5883,train-clean-360,5247,18776,The Shooting-Match,"Wit and Humor of America, Vol 04", M , Jerry Romero
+60480,6006,train-clean-360,5289,35450,Siamese Cat,Our Cats and All About Them, F , Stephanie Lee
+60774,6494,train-clean-360,5297,3439,10 - Three Hundred and Ninety-third Night to Three Hundred and Ninety-sixth Night,"Book of a Thousand Nights and a Night (Arabian Nights), Volume 05", M , Morey Kunin
+61316,6782,train-clean-360,5317,16653,03 - Chapter 2: The Land of Rivers and the God of the Deep,Myths of Babylonia and Assyria, F , zcameo
+61356,5968,train-clean-360,5318,35486,The Dance,Great Gold Rush: A Tale of the Klondike, F , Cate Barratt
+61421,5717,train-clean-360,5319,361,15 - After the Storm,Miss Billy Married, M , Phil Chenevert
+61741,6233,train-clean-360,5326,35587,037 - A Man Missing.,Headless Horseman - A Strange Tale of Texas, F , Gen Jones
+61943,6241,dev-clean,5332,18857,Our Voyage to Iceland,Journey to the Centre of the Earth, M , badey
+62014,5456,train-clean-100,5333,19323,The Woman Who Married an Owl,"Wit and Humor of America, Vol 05", M , e_scarab
+62347,6215,train-clean-360,5343,34000,29 - Mrs. Prime Reads Her Recantation.,Rachel Ray, F , Janet248
+62516,6510,train-clean-360,5350,1268,09 - Volume I Chapter 9,Mysterious Island (version 2), M , JimD
+62850,6330,train-clean-360,5361,35679,With A Stein on the Table,Pieces of Hate and other Enthusiasms, M , David Cummings
+63095,5984,train-clean-360,5372,5874,11 - Not Pats But Scratches,Dawn, F , sbburke
+63713,6371,train-clean-360,5394,16127,King's Dagger,Diamond Cross Mystery, F , Rebecca King
+63821,6563,train-clean-100,5397,20064,"Peter Force, Printer",Captains of Industry, M , William Tomcho
+63885,5985,train-clean-360,5400,8101,"Cope Is ""Entertained""",Bertram Cope's Year, M , James K. White
+64025,5694,dev-clean,5405,13202,02 - Shiloh,"'Co. Aytch,' Maury Grays, First Tennessee Regiment or, A Side Show of the Big Show", M , Winston Tharp
+64075,5319,train-clean-360,5407,34259,"18 - Part III: Dog Lore, Chapter 18: The Dog on the Trap Line",Hunting Dogs, M , Guero
+64257,6345,dev-clean,5410,8201,12 - Mary's Dream,Mary Marston, F , Jean Bascom
+64588,7030,train-clean-360,5424,19209,15 Chapter XIV,Andes and The Amazon, M , Conrad T
+64708,6189,train-clean-360,5428,14916,03 - The Enchanted Stag (Grimm's Fairy Tales),Fairy Tales Every Child Should Know, F , Shana Cohen
+64956,6341,train-clean-360,5439,9963,01 - Chapter 1,Elsie's Girlhood, F , Tiffany J. Kim
+65534,6339,train-clean-360,5458,24876,Her Own People,"Lucy Maud Montgomery Short Stories, 1905-1906", F , Michelle Remington
+65772,6373,train-clean-360,5468,2147,"The Unparalleled Adventures of One Hans Pfaal, Part 1","Works of Edgar Allan Poe, Raven Edition, Volume 1", F , Sandie Guenther
+65803,5489,train-clean-360,5469,3529,Letter 3,"Letters Written During a Short Residence in Sweden, Norway and Denmark", F , LizMourant
+66016,6330,train-clean-360,5481,35793,22 - Holding a Baby,Seeing Things at Night, M , David Cummings
+66125,6313,dev-clean,5485,6067,08 - A Daring Rescue,Pony Rider Boys in the Rockies, F , Jennifer Wiginton
+66166,5868,train-clean-360,5487,1948,03 - On Board the Typhoon,Story of a Bad Boy, M , alwpoe
+66347,5802,train-clean-360,5493,19324,"Genial Idiot Discusses the Music Cure, The","Wit and Humor of America, Vol 06", M , Christopher Maust
+66464,6518,train-clean-360,5496,1953,05 - May,Diary of an Old Soul, F , Wayfarer
+66616,6241,dev-clean,5500,12170,02 - How Wabigoon Became a White man,Wolf Hunters, M , badey
+67147,6509,train-clean-360,5516,6500,3 - Chapter III,Log-Cabin Lady, F , Marianna Foos
+67153,3242,train-clean-100,5517,21959,03 - Letter 3,Letters from a Self-Made Merchant to His Son, M , peac
+67200,7134,train-clean-360,5519,26500,03 - Introduction - Part 3,Anecdotes of Dogs, M , Steve Jackson
+67584,6575,train-clean-360,5529,23449,05 - Familiar Incidents: My Unknown Friend,Behind the Beyond, M , Patrick Painter
+67851,6643,train-clean-360,5538,5696,08 - A Twilight Tea-Party,Yankee Girl at Fort Sumter, F , cbooren
+68188,5588,train-clean-360,5555,965,18 - Rosa's Lover,Black Tulip, F , Gail Timmerman Vaughan
+68344,3171,train-clean-360,5564,28340,The Pearl of the Orient - Philippines,Birdseye Views of Far Lands, M , JoeD
+68762,1649,train-clean-360,5579,13110,03 - DON QUIXOTE,Aunt Jane's Nieces at Work, F , Kalynda
+68888,6215,train-clean-360,5584,2293,03 - The Hymn-Book,New England Girlhood: Outlined From Memory, F , Janet248
+69411,6519,train-clean-360,5599,5121,04 AND WHERE WAS I WHEN ALL THIS HAPPENED?,Dark Hollow, F , Monica Knuppe
+69550,6099,train-clean-360,5603,5960,Chapter 2,Little Sister Snow, F , Cheri Gardner
+69607,6637,train-clean-360,5608,13782,chapter 6,Lady Rose's Daughter, F , Christine Nendza
+70168,6272,train-clean-100,5635,12347,11 - Chapter XI,Morgesons, F , jlenardon
+70653,5789,train-clean-100,5662,21854,The Inquest,Trent's Last Case (Version 2), F , Kirsten Wever
+70753,6574,train-clean-360,5668,84,14,"Frankenstein, or the Modern Prometheus (version 3)", M , Caden Vaughn Clegg
+70837,6694,train-clean-360,5671,3076,"05 - The Fall of the Provisional Gov't, Part 1",Ten Days that Shook the World, M , Ross Williamson
+70919,5538,train-clean-360,5675,12672,"04 - ""From the Depths of his Love""",Spinner in the Sun, F , Linda Velwest
+70968,61,test-clean,5680,28700,04 - Chapter 4,Robin Hood., M , Paul-Gabriel Wiener
+71320,5968,train-clean-360,5691,10377,"13 (Time passed on: ... ""from which you would save him."" (2161 words))",Evil Guest, F , Cate Barratt
+71401,6701,train-clean-360,5695,16204,10 - An Affair of the Heart,Mansion of Mystery, M , Dayle
+71531,3703,train-clean-360,5702,18945,Chapter XV,Robin, F , Linda Andrus
+72200,7285,train-clean-360,5733,14874,16 - Chapter 15,Elsie's Womanhood, F , Christina M. Glavas
+72311,6673,train-clean-360,5737,36638,31 - Aunt Joanna,Book of Ghosts, F , Jenna Lanman
+72637,4267,train-clean-100,5754,25493,Durham,Cathedral Courtship, M , Ric F
+72876,5002,train-clean-360,5763,5734,15 CHOICE OF PUNISHMENTS,Life in the Grey Nunnery at Montreal, M , Brendan Stallard
+72927,1259,train-clean-360,5766,3261,"Chapter 13, Concerning Politics and Chapter 14, How Matters Are Arranged",News From Nowhere, F , Elizabeth Klett
+73024,6188,train-clean-360,5770,15766,18 - 'Judge Not That Ye Be Not Judged',Claverings, F , Roxanna Nazari
+73073,6690,train-clean-360,5771,1046,"03 -- Ch Second, Parts 1-3","God, the Invisible King", M , T Michael Burke
+73295,6696,train-clean-360,5781,13028,"A Well-Matched Sister and Brother, from Northanger Abbey","Library of the World's Best Literature, Ancient and Modern, volume 3", F , Katryn Wiese
+73712,64,train-clean-360,5794,19771,"32 - Book IV, Chapter III",Henrietta Temple, F , Robin Cotter
+73846,5570,train-clean-360,5796,3075,Chapter 8,Return (de la Mare version), F , Corinna Schultz
+73957,4434,train-clean-360,5800,36279,Chapter VI Part Two May,"Wood and Garden: Notes and Thoughts, Practical and Critical, of a Working Amateur", F , Sarah Nuxoll
+74004,6367,train-clean-100,5801,24877,The Old Fellow's Letter,"Lucy Maud Montgomery Short Stories, 1907-1908", M , Vince Dee
+74477,3584,train-clean-360,5816,33927,Dolly's Lesson,Not Quite Eighteen, F , Bridget Gaige
+74797,6763,train-clean-360,5826,7401,06-Chapter 6,Crystal Age, F , Manjit Bains
+75242,1212,train-clean-360,5838,24482,08 - Zip at the Candy Pull,"Zip, the Adventures of a Frisky Fox Terrier", F , Lee Ann Howlett
+75355,6286,train-clean-360,5843,15000,"Volume II: Reason in Society. Chapter 4: The Aristocratic Ideal, part 2",Life of Reason volume 2, F , Wendy Almeida
+75791,5672,train-clean-360,5858,3440,11 - Five Hundred and Sixty-sixth Night,"Book of A Thousand Nights and a Night (Arabian Nights), Volume 06", M , Jacob Paul Starr
+75918,6930,test-clean,5863,2681,11 - Night,Ten Years Later, M , Nolan Fout
+76043,5802,train-clean-360,5864,1734,09 - Ch Fifth Sec 3-4,Secret Places of the Heart, M , Christopher Maust
+76250,4441,train-clean-100,5874,37039,09 - Bills of Exchange,Red Room, M , William Peck
+76324,6930,test-clean,5878,30905,07 - Goliath Makes Another Discovery,Boarded Up House, M , Nolan Fout
+76549,6836,train-clean-100,5887,5136,"IV: From the Great Plains to the Atlantic, Part 2","Around the World on a Bicycle, Vol. 1", M , John
+76958,6313,dev-clean,5898,20087,04 - The First Night in Camp,Pony Rider Boys in Texas, F , Jennifer Wiginton
+77173,3645,train-clean-360,5906,34130,27 - The Imposter,Princess Galva, F , MaryAnn
+77361,6877,train-clean-360,5918,3797,"16 -- Bk First, Ch Fifth, Sec 3-5",In the Days of the Comet, M , Bear Schacht
+77778,7247,train-clean-360,5938,35302,13 - He Discusses the Music Cure,Genial Idiot, M , Robert Hoffman
+77897,7059,train-clean-100,5943,7502,09 - Chapter 9,Annie Kilburn, F , Joannemmp
+78186,4267,train-clean-100,5955,24432,"Road to a Woman's Heart, The","Wit and Humor of America, Vol 08", M , Ric F
+78885,6188,train-clean-360,5983,37437,chapter 9,Wanderer, F , Roxanna Nazari
+79730,7021,test-clean,6024,11667,01 - Three Modes of Management,Gentle Measures in the Management and Training of the Young, M , Nodo420
+79973,6877,train-clean-360,6031,37381,27 - The Salad,Snowdrop and Other Tales, M , Bear Schacht
+80189,4519,train-clean-360,6036,30092,07  Gipsy,Lords of the Housetops: Thirteen Cat Tales, F , Mimi Wang
+80534,7910,train-clean-360,6050,4301,Chapter 27: Clara's Return,Nether World, F , southernemma
+80656,7229,train-clean-360,6054,2691,17 - Spring in the Big Woods,Nan Sherwood at Pine Camp, F , Linda Ciano
+80680,6925,train-clean-100,6056,27826,06 - Jackal or Tiger?,Olive Fairy Book, M , Thomas Meaney
+81414,6930,test-clean,6075,13158,Dark Dreams and Night Shadows,Weapons of Mystery, M , Nolan Fout
+81843,6538,train-clean-360,6091,5207,"12 - Ch 7: The Messenger, part 2",Guns of Shiloh, M , Juan Federico
+81870,6956,train-clean-360,6092,4379,08 - Chapter 8,Fortunate Youth, M , DannyHauger
+82020,5293,train-clean-360,6097,8913,3 - Part 3,Cruel Painter, M , Ned Troxel
+82458,2156,train-clean-360,6111,38039,09 - Chapter 9,Billy the Kid, M , Roger Melin
+82558,6553,train-clean-360,6116,12383,Book Ninth - Residence in France,Prelude, M , DublinGothic
+82904,7188,train-clean-360,6129,9267,08 - Prescriptions,"Chip, of the Flying U", M , Marty
+82991,7148,train-clean-100,6132,2866,02 - Chapter II,"Windsor Castle, Book 1", F , Vickie Ranz
+83606,6993,train-clean-360,6151,19347,05-Chapter 2. Part 1,Myths of the New World, M , Seyed
+83633,6352,train-clean-360,6153,2614,"02 - Chapter XXIV, Part 2","History of England, from the Accession of James II - (Volume 5, Chapter 24)", F , stmacduff
+83696,7000,train-clean-360,6157,38188,20 - Willyum,Amusement Only, M , Kevin Alix
+84010,7384,train-clean-360,6163,1574,08 - JACQUELINE OF HOLLAND: THE GIRL OF THE LAND OF FOGS,Historic Girls, F , Diana Dolan
+84121,7128,train-clean-360,6166,33277,11 - The Strangeness of John Dene,John Dene of Toronto; a Comedy of Whitehall, M , morganreads
+84280,174,dev-clean,6172,30340,The Arraignment of Jealousy,Passionate Friends, M , Peter Eastman
+84349,6395,train-clean-360,6175,35710,THE FALSE DAUPHINS IN FRANCE,Claimants to Royalty, M , Richard Carpenter
+84447,1638,train-clean-360,6178,46,04 - Stave IV: The Last of the Spirits,Christmas Carol (version 5), M , Kyle M.
+85628,7021,test-clean,6218,26177,20 - Anders' New Cap,Book of Stories for the Storyteller, M , Nodo420
+85684,6294,train-clean-360,6219,19229,14 -- Chapter 7 B,Anticipations, M , humanode
+86026,7294,train-clean-360,6228,3282,10 - The Sacred Milk of Koumongoe,Brown Fairy Book, F , Muriel
+86588,2758,train-clean-360,6256,17749,Chapter VIII.--The Constructive Faculties,Mystic Will, F , SopranoHarmony
+86679,6294,train-clean-360,6262,35862,05 - Conall Yellowclaw,Celtic Folk and Fairy Tales, M , humanode
+86708,6395,train-clean-360,6263,1184,Chapter IV - Conspiracy,Count of Monte Cristo (version 2), M , Richard Carpenter
+86964,7226,train-clean-100,6269,38556,"09 - The Rock River, CHAPTER VII.  Storm-Bound at Erie",Historic Waterways, M , Jonathan Moore
+87280,7145,train-clean-360,6279,17498,07 - Chapter VII. Love's Fierce Sweetness,When Knighthood Was in Flower, F , Lita Ledesma
+87508,6499,train-clean-360,6290,33701,2 - Chapters 9-17,Fraternal Charity, M , dave7
+87547,3977,train-clean-360,6294,29734,"PART II, Sect. VI. Of Fixed Air, Sect. VII. Miscellaneous Experiments",Experiments and Observations on Different Kinds of Air, M , LivelyHive
+87732,6927,train-clean-360,6306,34181,05 - Chapter V,Irene Iddesleigh, F , Sarika Pawar
+87766,5190,train-clean-360,6308,38117,00 - Introductory,Book of Life, M , Rom Maczka
+87997,6395,train-clean-360,6320,19211,02 - Letter from Adam Smith,"History of England from the Invasion of Julius Caesar to the Revolution of 1688, Volume 1A", M , Richard Carpenter
+88083,7176,test-clean,6322,38675,10 - The Fisher in the Chutes,Hoof and Claw, M , KalenXI
+88089,6406,train-clean-360,6323,7437,01 - Rosalie,Peep Behind the Scenes, F , Abigail Rasmussen
+88349,4331,train-clean-360,6329,13029,BOOK II - THE UNCHALLENGED OUTLINE OF PHOTOPLAY CRITICAL METHOD / CHAPTER I - THE POINT OF VIEW,Art of the Moving Picture, F , Barbara Clements
+88483,7095,train-clean-360,6334,20248,05 - The Persistence of Religion,Necessity of Atheism, M , Wesseling
+88748,7139,train-clean-360,6347,11097,7 - Chapter VII,Young Robin Hood, M , gabrielv
+88761,2269,train-clean-360,6349,1273,My Second Stage,Autobiography of a Slander, F , Rhonda Federman
+89388,8194,train-clean-360,6375,7031,21 -- Chapter 8A,Sheik, F , MsMO
+89735,7169,train-clean-360,6388,9378,03 - A Point of Interrogation,Lone Wolf, M , Ryan Ransom
+89880,7395,train-clean-360,6395,38326,"09 - Book II, Chapters 4-9",Bede's Ecclesiastical History of England, F , Katherine
+89940,6406,train-clean-360,6397,24160,07 - Chapters XIII & XIV,Basket of Flowers, F , Abigail Rasmussen
+90542,7190,train-clean-100,6419,34468,02 - The Identity of the Final Victim,Christopher Quarles College Professor and Master Detective, M , Tony Posante
+90847,7276,train-clean-360,6433,19207,06 - MARIANNA,Firelight Fairy Book, F , ASPotter
+91072,7313,train-clean-360,6442,35950,15 - Horace Greeley,Lives of Poor Boys Who Became Famous, M , Mark DeVol
+91098,6499,train-clean-360,6443,38355,10 - Additions,Light and Peace: Instructions for Devout Souls to Dispel Their Doubts and Allay Their Fears, M , dave7
+91186,7447,train-clean-100,6448,18284,06 - The Piano and Piano Players,For Every Music Lover, M , dasbury
+91208,4788,train-clean-100,6450,15268,His Work in Philosophy,John Stuart Mill; His Life and Works, M , Bill Boerst
+91801,7090,train-clean-360,6479,5720,2 - A Shropshire Lad Part 2 of 2,Shropshire Lad (version 2), M , Jon Sindell
+91902,7258,train-clean-360,6484,39119,"07 - Jesus: As God, As a Man",Satires and Profanities, M , acloward
+92002,7460,train-clean-360,6487,5202,15 - Chapter XV,Golden Lion of Granpere, M , Larry Beasley
+92135,7176,test-clean,6493,13441,01 - THE COMPLETE DRAMATIST,Sunny Side, M , KalenXI
+92200,7240,train-clean-360,6494,25907,02 - Early Hardships,Indian Child Life, F , Lucretia B.
+92310,7264,train-clean-100,6499,18018,05 - Chapter 5,Free Press, M , Sean McClain
+92420,6788,train-clean-360,6502,8642,Ellen,Woman in the Nineteenth Century, F , Pamela Krantz
+92805,6895,train-clean-360,6514,2776,03 - A COSMOPOLITE IN A CAFE,Four Million (Version 2), F , Reeses118
+92915,7525,train-clean-360,6518,25652,Mohammed,Treasury of Heroes and Heroines, F , Jeannie Tirado
+93276,7314,train-clean-360,6528,3005,07 - Andy Tries a Trick,Tom Swift and his Airship, M , Rick Cahill
+93302,6345,dev-clean,6530,39324,01 The Unfaithful Lover,Literary Sense, F , Jean Bascom
+93470,7932,train-clean-360,6540,39374,Ruth Powlett Confesses,Curse of Carne's Hold, F , Tammy Stalcup
+93938,6454,train-clean-100,6563,25333,11 The Letters Change Hands Again,Great K. & A. Train-Robbery, M , David Wales
+94108,7247,train-clean-360,6576,29306,03 - Chapter III,Afloat on the Ohio, M , Robert Hoffman
+94522,7445,train-clean-360,6598,19212,"Chapter 17, part 01","History of England from the Invasion of Julius Caesar to the Revolution of 1688, Volume 1B", F , Emily Anderson
+94876,5717,train-clean-360,6606,485,11 - Johnny Dooit Does It,Road to Oz version 2, M , Phil Chenevert
+94904,4788,train-clean-100,6608,5669,07 - Chapter 4A,Considerations on Representative Government, M , Bill Boerst
+95441,7383,train-clean-360,6627,9908,08 - Off Nantucket,False Faces, F , Meg Cowan
+95870,4731,train-clean-360,6642,8660,10-	Contraceptives or Abortion?,Woman and the New Race, F , Becky Cook
+95959,6865,train-clean-360,6647,10056,Book 3,Analects of Confucius, F , Jing Li
+96151,7318,train-clean-360,6654,11229,02 - Section 02,Purple Cloud, F , Anise
+96241,6788,train-clean-360,6655,38427,29 - Fourth Book. The World As Will. Second Aspect.Paragraph 53,World as Will and Idea Volume 1, F , Pamela Krantz
+96498,4586,train-clean-360,6668,5965,Part 1. The Devolutionist. Chapter13. THE REBEL,Devolutionist and the Emancipatrix, M , Chris Caron
+96661,6476,train-clean-100,6675,2395,Part 1 Ch. 4: The Assembling of the Heroes and the Building of the Ships,Golden Fleece and the Heroes Who Lived Before Achilles, F , Viridian
+97593,5740,train-clean-360,6709,5061,Jimmy Scarecrow's Christmas,Children's Book of Christmas Stories, F , Alisa
+98644,7478,train-clean-360,6741,32449,"Life in the Cities, Part 1",Japanese Girls and Women, M , Dan Froese
+98876,7398,train-clean-360,6749,26020,Section Six,Apis Mellifica, F , Marie Daum
+99122,7498,train-clean-360,6754,39843,Lady Jane Grey,Women of History, F , MarianneVictoria
+99249,7437,train-clean-360,6756,39971,02 - Links with the Past,Bonaparte in Egypt and the Egyptians of To-day, M , Graham McMillan
+100043,7538,train-clean-360,6784,951,22 - Off to the Meet,Tom Swift and His Sky Racer, M , Logan West
+100145,5717,train-clean-360,6790,20726,05,Slave Is a Slave, M , Phil Chenevert
+100289,5750,train-clean-100,6794,27448,08 - Chapter 8 - The Indian in College and the Professions,Indian To-day, M , laurencetrask
+100429,7517,train-clean-100,6800,5803,09 - The Pond,Not That It Matters, F , Raz Mason
+100596,6415,train-clean-100,6808,21639,The Elusive Kate Ferris,When Patty Went to College, F , Daryl Wor
+101258,7540,train-clean-360,6835,641,03 - The Story of Three Wonderful Beggars,Violet Fairy Book, M , Christopher Webber
+101578,7705,train-clean-360,6842,1014,FOLLOWING THE DIM TRAILS!,Lure of the Dim Trails, M , Timothy Luke
+101799,7540,train-clean-360,6852,25817,Chapter I - The Story of the Buried Treasure,Cruise of the Esmeralda, M , Christopher Webber
+101832,7594,train-clean-360,6853,37472,02 The Hare and the Lion,Zanzibar Tales, F , Kristel Tretter
+101854,5660,train-clean-360,6856,36401,02 - Chapter 2,Turn Of The Tide, F , hollz
+102232,7569,train-clean-360,6867,6812,02 - Indiana,Abraham Lincoln: A History (Volume 1), M , Stephen L. Moss
+102381,7991,train-clean-360,6873,19831,"32 - Appendix F, Part 2","Rise and Fall of the Confederate Government, Volume 1a", M , Aaron Weber
+102419,7511,train-clean-100,6874,28572,08 - Elizabeth's Romance,Letters on an Elk Hunt, F , Sherri Vance
+102518,7859,train-clean-100,6876,37756,12 - The Coming of the Saracens,Byzantine Empire, F , xinamarieuhl
+102612,7495,train-clean-360,6880,8874,30 - Disclosures - By Mr. Skillcorn,Queechy, F , Arlene Joyce
+103120,7789,train-clean-360,6906,36221,04 - Onawandah,Spinning-Wheel Stories, F , Lauren Jane
+103416,4018,train-clean-100,6916,1693,05 - Chapter V,Dangerous Days, M , Nicholas Clifford
+103481,1066,train-clean-360,6917,16064,The Last Crew,Carolina Chansons: Legends of the Low Country, F , Laurie Anne Walden
+104391,7802,train-clean-360,6946,10463,CHAPTER X: ON THE GRAY WALL,Little House in the Fairy Wood, F , Samantha J Gubitz
+104483,7460,train-clean-360,6951,12234,10 - Sir Magnus Mountjoy,Mr Scarborough's Family, M , Larry Beasley
+104606,4145,train-clean-360,6952,40453,06 - The Long Arm Of Coincidence,Tom Ossington's Ghost, F , Patti Cunningham
+104637,7188,train-clean-360,6953,6068,06 - Lost in the Rosebud Range,Pony Rider Boys in Montana, M , Marty
+104717,7657,train-clean-360,6958,20183,01 - Chapter 1A,John Quincy Adams, F , shalclark
+104886,7245,train-clean-360,6964,2679,0 - Preface,Poems: Series Two, F , Laura Atkinson
+104978,7665,train-clean-360,6968,4767,01 - A Spy's Duty,Mayor's Wife, M , Christian Mitchell
+105167,7720,train-clean-360,6974,1401,12 - The Black Flier,Tarzan the Untamed, M , jeffwiltzius
+105383,7754,train-clean-360,6984,60,04 - THE LEAGUE OF THE SCARLET PIMPERNEL,Scarlet Pimpernel (Version 2), F , Iridescat
+105574,7881,train-clean-360,6994,40477,Chapter 2,With Fire and Sword (Byers), M , Sam Naishtat
+105661,7635,train-clean-100,6999,19213,"Chapter 29, part 1","History of England from the Invasion of Julius Caesar to the Revolution of 1688, Volume 1C", F , Judy Guinan
+106366,7777,train-clean-360,7028,830,"03 - Book 1, part 3",Argonautica, M , Jacob Paine
+106611,6060,train-clean-360,7044,1911,4 - Conclusion,Concerning Christian Liberty, M , Jonathan Lange
+106800,7733,train-clean-360,7055,38840,02 - Rounding Up Indians,Adventures of Buffalo Bill, F , Jewel Raquel
+106965,7704,train-clean-360,7066,10880,An Antagonist,"Teddy's Button, Version 2", M , Robert Harder
+107247,667,train-clean-360,7080,13415,7 - The Husband,Lady With the Dog and Other Stories, F , Bethany Simpson
+107312,4018,train-clean-100,7084,3760,"15 - Book II, chapter ix","Sybil, or the Two Nations", M , Nicholas Clifford
+107462,6454,train-clean-100,7089,9363,"Backstairs of the Mind, The",Best British Short Stories of 1922, M , David Wales
+107479,479,train-clean-360,7090,30853,03 - The Adventure of Mrs.Gaster's Maid,Mrs. Raffles, F , wedschild
+107517,7732,train-clean-360,7093,40591,"04 - Chapter 2 - The Fight for the Constitution, Part 2",Alexander Hamilton, M , Daniel Vimont
+107621,5909,train-clean-360,7101,6069,07 - Boys and Ponies Strangely Missing,Pony Rider Boys in the Ozarks, M , Mark Mickelson
+108005,8097,train-clean-360,7129,3600,15 - OF THE INCONVENIENCE OF GREATNESS,Essays book 3, F , lewildesen
+108066,7240,train-clean-360,7132,17504,03 - Simeon Stylites the Syrian,Mintage, F , Lucretia B.
+108620,7816,train-clean-360,7152,2149,"The Narrative of Arthur Gordon Pym of Nantucket, Chapter 10","Works of Edgar Allan Poe, Raven Edition, Volume 3", F , Stefanie Heinrichs
+109173,7837,train-clean-360,7174,40921,01 - LIFE,Grim: The Story of a Pike, M , Alfian
+109507,5304,train-clean-360,7188,13372,Chapter VI The Scream in the Night,Gloved Hand, M , Don W. Jenkins
+109656,7688,train-clean-360,7199,2295,02 - Round The Circle,Waifs and Strays, M , Leslie Walden
+110054,7982,train-clean-360,7213,40901,"05 - Part 1, Chapter 4 - Of Propriety as Regards One's Self",Gentleman and Lady's Book of Politeness and Propriety of Deportment, F , Lori Arsenault
+110124,7976,dev-clean,7215,34431,13 - The Little Maid Who Was Wise,Islands of Magic, M , JenniferRutters
+110238,8050,train-clean-360,7225,2852,04 - Sir Henry Baskerville,Hound of the Baskervilles (version 3), M , Jake Woldstad
+110520,8142,train-clean-360,7239,15145,Princess Goldenhair,My Book Of Favourite Fairy Tales, M , Timothy Lucas
+110705,7868,train-clean-360,7253,16247,"03 - The King Of The Golden River Or The Black Brothers by John Ruskin, Part 2",Famous Stories Every Child Should Know, F , Chessie Joy
+111574,6788,train-clean-360,7300,10513,"11 - SHELLS AND THEIR BUILDERS, part 2",On The Seashore, F , Pamela Krantz
+111615,6415,train-clean-100,7302,22699,06 - Confessions of a Colyumist,Pipefuls, F , Daryl Wor
+111754,8011,train-clean-360,7308,20151,James Monroe,Hidden Treasures, M , Greg Giordano
+111961,5909,train-clean-360,7313,36423,14 - Fun in the Foothills,Pony Rider Boys in the Alkali, M , Mark Mickelson
+112011,7945,train-clean-360,7317,20357,Chapter IV,Jerry, F , Lois Browne
+112056,7981,train-clean-360,7319,27706,03 - A Great Household,Life of St. Vincent de Paul, M , timothyFR
+112187,7688,train-clean-360,7326,1805,08 - Shearing the Wolf,Gentle Grafter, M , Leslie Walden
+112586,8014,train-clean-100,7347,41666,00 - Preface,Story of Ancient Irish Civilisation, F , constatine
+112761,6937,train-clean-360,7355,36668,3 - The Eagles,Polish Fairy Tales, F , DVoice
+113272,7933,train-clean-360,7376,30127,The Old Curiosity Shop - The Wanderers,Tales From Dickens, F , Highlandoaks
+114256,8066,train-clean-360,7427,13384,43 - The Killer Killed,Covered Wagon, M , Tim Cote
+114452,6924,train-clean-360,7433,2816,4 - Section 4,City of the Sun, F , Rapunzelina
+114468,7832,train-clean-360,7436,7862,"06 - Ch 03: Beside the River, part 2",Sword of Antietam, M , DJRickyV
+114971,8097,train-clean-360,7463,41921,10 - The Buyer of Sorrows,Maker of Rainbows, F , lewildesen
+115046,8176,train-clean-360,7468,4227,Anxious Days,Tom Swift and His Wireless Message, M , Jon Kerfoot
+115686,8119,train-clean-360,7509,32530,"06 - The ""Wyoming Massacre""",Armageddon- 2419 A.D., M , Malcolm Cameron
+115968,3483,train-clean-360,7527,32530,Ch 7 - Incredible Treason,Armageddon- 2419 A.D. (Version 2), M , Alan Winterrowd
+116629,6415,train-clean-100,7565,14627,Chapter 7: A Thunder Clap,Veronica, F , Daryl Wor
+116797,8163,train-clean-360,7577,16537,14 - The Paradise Of Children,Myths That Every Child Should Know, F , Greengecko
+117095,7967,train-clean-360,7593,41651,05 - The Piper,"Futuria Fantasia, Spring 1940", F , Lois Hill
+117382,8195,train-clean-360,7617,533,"02 - ""Wet year! Wet year!"" prophesied the Cardinal",Song of the Cardinal, M , Mr Krause
+117866,8011,train-clean-360,7654,15929,The Search for a Good Child,Mother Stories, M , Greg Giordano
+117899,7437,train-clean-360,7659,15776,01 - Introductory,Economic Consequences of the Peace, M , Graham McMillan
+118101,8051,train-clean-100,7670,15263,01 - Several Arrivals From Different Places,"Underground Railroad, Part 2", F , Maria Kasper
+118436,251,dev-clean,7692,42259,01  - Death Strikes a King,People of the Black Circle, M , Mark Nelson
+119253,231,train-clean-360,7761,43249,02 - Chapter 2,Our Little Canadian Cousin, M , Sean McGaughey
+119295,3157,train-clean-360,7764,15158,8 - Major Natural Disasters: Tornadoes; Winter Storms; Earthquakes,"In Time Of Emergency: A Citizen's Handbook On Nuclear Attack, Natural Disasters", F , TriciaG
+119637,3483,train-clean-360,7786,25438,08 - Ch 8 - Hypnotic Torture,Airlords of Han, M , Alan Winterrowd
+119902,8051,train-clean-100,7812,14055,War Bread,Food Guide for War Service at Home, F , Maria Kasper
+120277,8396,train-clean-360,7850,17807,23 - Uncle Wiggily and the Sunbeam,Uncle Wiggily in the Woods, M , gloriousjob
+120318,7939,train-clean-360,7859,5961,Chapter XVIII,Samuel the Seeker, M , DPranitis
+120342,6454,train-clean-100,7868,32455,Christmas Waits In Boston Part 1,Christmas Eve and Christmas Day, M , David Wales
+120583,6574,train-clean-360,7891,1249,07 - Chapter 7,Anthem (version 2), M , Caden Vaughn Clegg
+121024,38,train-clean-360,47,1184,Number 34 and Number 27,Count of Monte Cristo, M , R. Francis Smith
+121140,22,train-clean-360,52,1941,Letter 5,Letters of Two Brides, F , Michelle Crandall
+121331,249,train-clean-360,55,805,Bk1 Ch4 Pt1,This Side of Paradise, M , pww214
+121382,274,train-clean-360,57,1259,12 - In which it is shown that if Porthos was discontented with,Twenty Years After, F , Eileen George
+121528,258,train-clean-360,65,1727,Book 15,Odyssey, M , Kurt Wong
+121541,79,train-clean-360,67,1004,"Bk 1, Inferno: Canto XVI - Canto XX",Divine Comedy, F , Jennifer Crispin
+121652,289,train-clean-100,74,5312,Introduction,Mother Goose in Prose, F , Barbara Wedge
+121720,115,train-clean-360,78,1989,Preface and Letter A,Foolish Dictionary, F , Maddie
+121741,288,train-clean-360,79,9301,Kirsty,Ranald Bannerman's Boyhood, F , Bookworm
+121799,1413,train-clean-360,81,15489,The Dream Mechanism,Dream Psychology, M , ryanaw
+121891,159,train-clean-360,85,14328,"Bk 3: Section III, and Song III: The Insatiableness of Avarice",Consolation of Philosophy, M , hugh mac
+121914,39,train-clean-100,86,158,Vol. 1 Ch. 01,Emma, F , Sherry Crowther
+122025,176,train-clean-360,94,289,Mr. Toad,Wind in the Willows, M , Vinny Bove
+122150,196,train-clean-100,97,5658,Chapter 2,Lord Jim, M , Stewart Wills
+122255,201,train-clean-100,104,964,Little John and the Tanner of Blyth,Merry Adventures of Robin Hood, M , Joplin James
+122425,211,train-clean-100,120,1257,HIS MAJESTY KING LOUIS XIII,Three Musketeers, F , shanda_w
+122538,226,train-clean-100,126,3659,14 - In Deryck's Safe Control,Rosary, F , Deb Bacon-Ziegler
+122612,1320,test-clean,132,940,Chapter 22,Last of the Mohicans, M , number6
+122625,242,train-clean-360,133,1260,Chapter 00,Jane Eyre, F , Cagirlwithasoutherndrawl
+122789,166,train-clean-360,143,210,Section 3,International Episode, F , Paula Berinstein
+122797,672,test-clean,144,1597,The Fir Tree,Andersens Fairy Tales, M , Taylor Burton-Edward
+122819,426,train-clean-100,145,47,A Question of Color,Anne of Avonlea, F , Norah Piehl
+122863,698,train-clean-360,146,45,Anne Comes to Grief in an Affair of Honor,Anne of Green Gables, F , Randi Warwick
+122944,115,train-clean-360,152,4363,Apophtegms and Interludes,Beyond Good and Evil, F , Maddie
+123013,362,train-clean-360,155,271,Chapter 12  A Stormy Day,Black Beauty: The Autobiography of a Horse, F , Judith Brown
+123059,534,train-clean-360,158,215,Chapter 5-6,Call of the Wild, F , Jean O'Sullivan
+123133,820,train-clean-360,162,2142,Chapter 25,Childhood, M , Scoot
+123163,636,train-clean-360,164,9101,"Fish, Oysters, &c.","Domestic Cookery, Useful Receipts, and Hints to Young Housekeepers", F , Zale Schafer (Rose May Chamberlin Memorial Foundat
+123190,829,train-clean-360,166,51,Chapter 11 - The Round of Life,Anne of the Island, F , frenchfry
+123266,882,train-clean-360,174,3748,Chapter 13,Journey to the Interior of the Earth, F , Mur Lafferty
+123349,27,train-clean-100,184,1468,"Chapter V, Part 3","History of England, from the Accession of James II - (Volume 1, Chapter 05)", M , Sean McKinley
+123440,260,test-clean,200,11,Chapter 2,Alice's Adventures in Wonderland, M , Brad Bush
+123500,303,train-clean-360,205,62,Chapter 02,Princess of Mars, M , Tony Hightower
+123602,398,train-clean-360,213,367,Captain Littlepage,Country of the Pointed Firs, M , James Smith
+123715,806,train-clean-360,220,600,Part 1 Chapter 8,Notes from the Underground, M , Aaron Andradne
+123852,121,test-clean,229,1041,Sonnets 41-50,Shakespeare's Sonnets, F , Nikolle Doolin
+123866,439,train-clean-360,230,2003,L'Apprenti Sorcier,Spirits in Bondage, M , Robert Garrison
+123882,205,train-clean-360,233,3533,L'Envoi. The Train to Mariposa,Sunshine Sketches of a Little Town, F , Esther
+123998,154,train-clean-360,240,6763,Chapters 6-8,Poetics, M , Robert Foster
+124139,200,train-clean-100,253,1342,Chapter 8,Pride and Prejudice, F , Maureen S. O'Brien
+124221,806,train-clean-360,256,6753,Chapter 14,Psmith in the City, M , Aaron Andradne
+124368,340,train-clean-360,264,2657,Chapter 1,Lincoln at Cooper Union, M , Scott Henkel
+124404,311,train-clean-100,269,59,Chapter 5,Discourse on the Method of Rightly Conducting Ones Reason and of Seeking Truth, M , deadwhitemales
+124439,23,train-clean-360,271,345,Chapter 14,Dracula, F , Anita Roy Dobbs
+124520,512,train-clean-360,279,543,Chapter 7,Main Street, M , Anthony Craine
+124554,208,train-clean-360,280,24055,"<a href=""http://bartleby.com/44/1/1.html"">Book 01</a>",Sayings of Confucius, F , Andrea L
+124587,2230,train-clean-360,281,6917,04-04 Savareen's Disappearance - Chapter 4,Gerrard Street Mystery and Other Weird Tales, F , Isosceles
+124990,409,train-clean-360,304,34901,Ch 4  Of the Limits to the Authority of Society,On Liberty, M , Mike Kauffmann
+124992,27,train-clean-100,305,8318,Part 1 (Chapters 1-8),Bible (DRV) Apocrypha/Deuterocanon: Judith, M , Sean McKinley
+124994,475,train-clean-360,306,2830,Reginald,Reginald, M , Jason X.
+125084,126,train-clean-360,313,4077,EARLY LIFE,Chronicles of Canada Volume 02 - Mariner of St. Malo : A Chronicle of the Voyages of Jacques Cartier, F , Susan Denney
+125118,497,train-clean-360,316,883,bk1_05 - Book the First - Chapter 05 BOFFIN'S BOWER,Our Mutual Friend, M , audiotoshokan
+125237,1081,train-clean-100,319,14971,Rise of John de Witt. The First English War,History of Holland, M , Fracture
+125882,369,train-clean-360,351,500,Chapter 35,Adventures of Pinocchio, M , Kevin Readdean
+125941,335,train-clean-360,355,54,The Scarecrow Plans an Escape,Marvelous Land of Oz, M , Paul Harvey
+126107,150,train-clean-100,369,697,Put Me In Again.,Light Princess, F , Fox in the Stars
+126133,237,test-clean,370,2770,Polly is Comforted,Five Little Peppers and How They Grew, F , rachelellen
+126208,93,train-clean-360,373,153,1-05 Part First - Chapter 5,Jude the Obscure, F , Kathy
+126286,337,train-clean-360,375,2591,"Twelve Dancing Princesses, The",Grimms' Fairy Tales, F , Barbara Harvey
+126408,323,train-clean-360,380,778,A Seige and Bed,Five Children and It, F , Erica Kuntz
+126480,479,train-clean-360,385,572,The Pie and the Patty-Pan,Great Big Treasury of Beatrix Potter, F , wedschild
+126539,227,train-clean-360,387,141,Chapter 20,Mansfield Park, F , Sarah Key-DeLyria
+126577,203,train-clean-360,388,2776,"Adjustment of Nature, An",Four Million, F , Marian Brown
+126600,208,train-clean-360,393,13035,The Goop Directory,Goop Directory, F , Andrea L
+126732,777,dev-clean,406,974,Chapter 3,Secret Agent, M , fling93
+126784,200,train-clean-100,413,9845,Chapter 5,Spy, F , Maureen S. O'Brien
+126826,451,train-clean-360,415,5342,11 - The Story Girl Does Penance,Story Girl, F , Sonserae Leese-Calver
+126851,208,train-clean-360,416,501,The Third Chapter - More Money Troubles,Story of Doctor Dolittle, F , Andrea L
+126928,593,train-clean-360,419,216,Chapters 19-27,Tao Teh King, M , Eric S. Piotrowski
+126945,580,train-clean-360,422,7142,"Book 1, ch. 01",History of the Peloponnesian War, M , Ryan
+126975,412,train-clean-100,424,204,04 - The Flying Stars,Innocence of Father Brown, M , Brian Roberg
+127105,121,test-clean,431,209,Chapter 00,Turn of the Screw, F , Nikolle Doolin
+127215,278,train-clean-360,437,619,Mount Olympus,Warden, F , AliceG
+127518,781,train-clean-360,449,120,Chapters 7-8,Treasure Island, M , Mitchell Dwyer
+127579,637,train-clean-360,452,1900,Chapter 15,Typee, M , Michael Scherer
+127685,596,train-clean-360,464,7091,01b - Chapter 1 beginning with First View: The Bridal Veil,Yosemite, F , Carol Goode
+127731,594,train-clean-360,470,8183,Coming of the Sea,Time and the Gods, M , KentF
+127786,201,train-clean-100,480,5921,Chapter 28,Don Quixote - Vol. 1, M , Joplin James
+127936,231,train-clean-360,489,10373,XXXIV THE WHIP HAND,Middle Temple Murder, M , Sean McGaughey
+128036,208,train-clean-360,497,1593,How to Tell the Birds from the Flowers,How to Tell the Birds from the Flowers, F , Andrea L
+128104,1272,dev-clean,502,14240,A 'Jolly' Art Critic,Reviews, M , John Rose
+128226,1392,train-clean-360,509,1998,Part 1: III. Backworldsmen,Thus Spake Zarathustra: A Book for All and None, M , Chris Masterson
+128309,353,train-clean-360,510,98,I.VI: The Shoemaker,Tale of Two Cities, M , Jamey Osborne
+128618,1081,train-clean-100,530,18542,FIFTEEN WAYS TO COOK PERCH,How to Cook Fish, M , Fracture
+128659,1183,train-clean-100,533,18992,Childhood,Current Superstitions, F , roolynninms
+128684,911,train-clean-100,534,32547,The Place of Affectional Facts in a World of Pure Experience,Essays in Radical Empiricism, M , frankjf
+128761,359,train-clean-360,544,2166,Chapter 20,King Solomon's Mines, M , John Nicholson
+128982,441,train-clean-100,562,17188,The Pirate who could not Swim,Buccaneers and Pirates of Our Coasts, F ," Sandra in Wales, United Kingdom"
+129011,664,train-clean-360,563,599,The Green Silk Purse,Vanity Fair, F , Wendy G.
+129236,1088,train-clean-100,573,2944,Essay 05 - Love,"Essays, First Series", F , Christabel
+129317,114,train-clean-360,578,730,Chapter 34,Oliver Twist, F , Jen Kidd
+129388,986,train-clean-360,583,972,F,Devil's Dictionary, M , Michael Kirkpatrick
+129440,487,train-clean-360,588,20,"Book Five, Part 1",Paradise Lost, M , Clayton J. Smith
+129513,119,train-clean-360,594,83,The Gun Club,From the Earth to the Moon, M , Alex Patterson
+129581,716,train-clean-360,597,159,THE MAN WHO HAD NOWHERE TO GO,Island of Dr. Moreau, M , martyd
+129623,576,train-clean-360,600,160,Chapters XVI-XX,Awakening, F , Caroline Mercier
+129659,296,train-clean-360,602,4280,Of the equivocal Nature of Amphiboly (15min),Critique of Pure Reason, M , Carl Manchester
+129742,652,dev-clean,605,18435,Salads,Good Things to Eat As Suggested By Rufus, M , Scott Walter
+129766,328,train-clean-100,606,370,When I parted with my brother...,Fortunes and Misfortunes of the Famous Moll Flanders, F , Elizabeth Palmer
+129790,224,train-clean-360,607,1965,Don Diego,Captain Blood, F , Caitlin Kelly
+129974,227,train-clean-360,620,161,Chapter 15,Sense and Sensibility, F , Sarah Key-DeLyria
+130093,398,train-clean-360,626,73,Chapter 01,Red Badge of Courage, M , James Smith
+130125,3889,train-clean-360,627,103,09 - Chapter 20,Around the World in Eighty Days (version 3), F , Alina
+130164,1195,train-clean-360,628,514,22 - Pleasant Meadows,Little Women, F , Jennette Selig
+130225,272,train-clean-360,632,1892,Chapter 1,Extracts from Adam's Diary, M , Mr. Baby Man
+130296,606,train-clean-360,638,17946,Chapters 6-7,Eirik the Red's Saga, M , Julian Jamison
+130486,1379,train-clean-360,649,18362,Literary Expressions: Absolutely vulgarized by too perpetual a parroting - Awaiting his summons to the eternal silence,Fifteen Thousand Useful Phrases, M , Ken Crooker
+130560,510,train-clean-360,650,11938,Karmu and Dharmu,"Folklore of the Santal Parganas, Vol. 1", M , Kirk Thomas
+130588,957,train-clean-360,651,17958,Chapter 09,Warlord of Kor, M , iscatel
+130625,953,train-clean-360,654,308,Chapter 04,Three Men in a Boat (To Say Nothing of the Dog), M , Jim Mullins
+130644,248,train-clean-100,655,7469,Chapter 04,Daniel Deronda, F , Becky Miller
+130726,652,dev-clean,657,9464,"Bohemia of the Present, As it is in Germany/recipe",Bohemian San Francisco, M , Scott Walter
+130739,831,train-clean-100,659,1264,01 - Chapters 01 to 03,Wheels of Chance, M , Nick Gallant
+130755,472,train-clean-360,661,105,Chapter 2,Persuasion, F , Tina Tilney
+130870,834,train-clean-360,665,2488,Strolling the Plains,Twenty Thousand Leagues Under the Sea, F , nausicaa
+130974,373,train-clean-360,670,1404,Federalist No. 01 by Alexander Hamilton,Federalist Papers, F , Kim Braun
+131096,2910,train-clean-100,672,4925,Cupid and Psyche,Bulfinchs Mythology: The Age of Fable, F , Janna
+131203,207,train-clean-360,676,225,Chapter 17,At the Back of the North Wind, M , Kevin McAsh
+131226,511,train-clean-360,677,22472,Chapter 2,Book of the Damned, M , Matthew Shepherd
+131256,225,train-clean-360,679,541,Chapter 04,Age of Innocence, F , Brenda Dayne
+131294,868,train-clean-360,681,769,Chapter 5,Book of Tea, M , Mike Rosenlof
+131532,226,train-clean-100,697,969,Chapter X,Tenant of Wildfell Hall, F , Deb Bacon-Ziegler
+131704,770,train-clean-360,707,820,The Age Of Electricity,"Edison, His Life and Inventions", M , Justin S Barrett
+131882,492,train-clean-360,714,103,"In Which Phileas Fogg and Passepartout Accept Each Other, the One as Master, the Other as Man",Around the World in Eighty Days, M , TBOL3
+132069,203,train-clean-360,725,3707,"Pendulum, The",Trimmed Lamp: and other Stories of the Four Million, F , Marian Brown
+132101,2230,train-clean-360,726,8994,A New Lesson to Learn,What Katy Did, F , Isosceles
+132112,625,train-clean-100,727,408,"Chapter 7 - Of the Black Belt, part 2",Souls of Black Folk, M , toriasuncle
+132272,764,train-clean-360,744,575,<b>Essays 4-8</b>,Essays of Francis Bacon, M ," Carl Vonnoh, III"
+132291,922,train-clean-360,746,19471,Chapter 02,Badge of Infamy, M , Steven H. Wilson
+132484,2113,train-clean-360,755,2554,23 - Part 4 Chapter 3,Crime and Punishment, M , Andrew Vidal
+132530,2411,train-clean-360,759,3268,"Vol 01, Ch. 03",Mysteries of Udolpho, F , kristiface
+132644,434,train-clean-360,761,19942,Chapter 19,Candide, F , Joyce Nussbaum
+132705,948,train-clean-360,767,1250,Chapter 07,Anthem, F , Chere Theriot
+132717,339,train-clean-360,769,32,01  A Not Unnatural Enterprise,Herland, F , Heather Ordover
+132776,1052,train-clean-360,774,2439,"Chapter IX, Part 3","History of England, from the Accession of James II - (Volume 2, Chapter 09)", F , Kathy Jacobs
+132800,1316,train-clean-360,775,2439,"Chapter X, Part 8","History of England, from the Accession of James II - (Volume 2, Chapter 10)", M , Estragon
+132821,1053,train-clean-360,778,3454,"False Prince and True, Portugal",Lilac Fairy Book, F , katyleah
+132864,699,train-clean-360,780,16389,Chapter  02,Enchanted April, F , Diana Kiesners
+132891,1093,train-clean-360,781,556,Brother Square Toes,Rewards and Fairies, F , Kiki Baessell
+133220,1031,train-clean-360,802,20190,"<a href=""http://docs.google.com/View?docid=dfxw7vh2_8csdksc"">Customs of Mourning, Visiting Cards, and Dress. Anniversaries.</a>",Handy Cyclopedia of Things Worth Knowing, F , swroot
+133263,1058,train-clean-360,803,815,Chapter II: Origin Of The Anglo-AmericansPart I,Democracy in America Vol. I, M , James Tiley
+133393,1028,train-clean-360,814,2865,Chapter 06 - How Otto Lived in the Dragon's House,Otto of the Silver Hand, M , Tim Lundeen
+133424,1012,train-clean-360,816,16,The Mermaid's Lagoon,Peter Pan, F , Lizzie Oldfather
+133440,1914,train-clean-360,817,35,Chapter 6,Time Machine, M , Kevin Kivikko
+133447,1018,train-clean-360,818,5308,Chapter I: Only the Guardian,Paradise Mystery, M , JimmyLogan
+133604,1188,test-clean,825,20019,Lecture III: Color,Lectures on Landscape, M , Duncan Murrell
+133630,359,train-clean-360,830,711,INTRODUCTION,Allan Quatermain, M , John Nicholson
+133695,1098,train-clean-100,836,2833,Chapter 07,Portrait of a Lady Vol 1, F , Merryb
+133834,1222,train-clean-360,845,786,"Book 3, Chapter 6",Hard Times, M , Joseph Ugoretz
+134119,1050,train-clean-360,859,3028,Preface / The Lady Who Put Salt in Her Coffee,Peterkin Papers, F , entada
+134148,3825,train-clean-360,862,620,11 - Peter and Paul,Sylvie and Bruno, M , Matt Wills
+134170,1311,train-clean-360,863,18492,Chapter 08 - Plague!,Star Surgeon, M , Scott D. Farquhar
+134312,476,train-clean-360,874,2688,Chapter VI,Clue of the Twisted Candle, M , Chuck Spann
+134420,3347,train-clean-360,876,967,CHAPTER 58,Life And Adventures Of Nicholas Nickleby, F , tornadogrrrl
+134434,1296,train-clean-360,877,416,Godliness,"Winesburg, Ohio", F , Gigi Minden
+134463,1463,train-clean-360,879,559,The Garden-House of Suliman the Red,Greenmantle, F , Vivian Bush
+134493,237,test-clean,881,24,Part 2 (Neighboring Fields) Chapter 1,O Pioneers!, F , rachelellen
+134592,770,train-clean-360,885,269,The Cobweb,Beasts and Super-Beasts, M , Justin S Barrett
+134636,1607,train-clean-360,887,732,Chapter XVIII: Character of Constantine Pt. 2,History of the Decline and Fall of the Roman Empire Vol. II, M , Claude Banta
+134686,1089,test-clean,890,4217,Ch3 Pt1,Portrait of the Artist as a Young Man, M , Peter Bobbe
+134707,1001,train-clean-360,891,1322,Book 13,Leaves of Grass, M , Eric
+134785,2498,train-clean-360,894,135,"Bk 02, ch. 11: What he does",Miserables Vol. 1, F , B. Grebe
+134981,1182,train-clean-360,903,503,The Goose-Girl,Blue Fairy Book, M , Brett Condron
+135020,1313,train-clean-360,909,956,Tik-Tok Tackles a Tough Task,Tik-Tok of Oz, M , Scott Sherris
+135216,1165,train-clean-360,926,6709,The Finding of the Copper Cylinder,Strange Manuscript Found in a Copper Cylinder, M , Bob Graff
+135249,188,train-clean-360,930,544,02 - The House of Dreams,Anne's House of Dreams, F , Mary Anderson
+135580,1825,train-clean-360,941,6471,Chapter XVIII,Children of the New Forest, F , srshel
+135635,1265,train-clean-360,942,580,"Records a touching Act of delicate Feeling not unmixed with Pleasantry, achieved and performed by Messrs. Dodson and Fogg",Pickwick Papers, M , Edward Elmer
+135654,1392,train-clean-360,944,9662,Of Probability,Enquiry Concerning Human Understanding, M , Chris Masterson
+135762,1290,train-clean-360,952,33,The Market-Place,Scarlet Letter, F , librarianite
+135814,1195,train-clean-360,956,2441,"STRIPED CHIPMUNK AND HIS COUSINS -- The Chipmunk, Spermophiles, and Flying Squirrel.",Burgess Animal Book for Children, F , Jennette Selig
+135883,1235,train-clean-100,958,5664,<b>The Merchant and the Genie</b>,"Arabian Nights Entertainments, Volume 01", M , Tim Gregory
+135982,3607,train-clean-100,963,2814,05 - After the Race,Dubliners, M , Richard Wallis
+136054,1313,train-clean-360,968,18891,Chapter 07,Dot and the Kangaroo, M , Scott Sherris
+136271,1668,train-clean-360,981,6093,Our neighbours at The Poplars,Far Away and Long Ago, F , stepheather
+136458,3094,train-clean-360,990,6593,Bk 18: Ch 12-13,"History of Tom Jones, A Foundling", F , moe
+136483,188,train-clean-360,991,1450,A Waiting Game,Pollyanna, F , Mary Anderson
+136532,251,dev-clean,994,19445,Part 4,Omnilingual, M , Mark Nelson
+136610,2146,train-clean-360,999,733,Chapter XXX: Revolt Of The Goths Pt. I,History of the Decline and Fall of the Roman Empire Vol. III, M , Jeff Stuckey
+136846,1456,train-clean-360,1011,8918,Part 7,Life of Samuel Johnson Vol. I, M , Jason Isbell
+136983,1283,train-clean-360,1015,1000012,Chapter 2 - The Lair of the Wolf,Red Shadows, M , Paul Siegel
+137004,1754,train-clean-360,1016,2600,Chapter 18,"War and Peace, Book 02: 1805", F , Joan Freeman
+137106,543,train-clean-360,1023,8140,At The Graveside,"Lectures of Col. R.G. Ingersoll, Volume 1", M , Ted Delorme
+137141,984,train-clean-360,1027,130,Chapter 1,Orthodoxy, M , J A Carter
+137482,3170,dev-clean,1037,2981,Episode 4: Return to Venice. Chapter 18 part 1,Memoirs of Jacques Casanova Vol. 1, M , VOICEGUY
+137572,1116,train-clean-100,1039,20830,Learning to Live Together,Good Housekeeping Marriage Book, F , Megan Stemm-Wade
+137588,1322,train-clean-360,1041,1251,"Book 2, Chapters 1-6",Morte d'Arthur - Vol. 1, M , chris tierney
+137739,3046,train-clean-360,1048,2781,12 - The Butterfly that Stamped,Just So Stories (version 3), F , Stephanie Land
+137770,1259,train-clean-360,1049,2891,Chapter 31,Howards End, F , Elizabeth Klett
+137823,251,dev-clean,1055,17985,The Earthquake,Tom Swift and the Visitor From Planet X, M , Mark Nelson
+138028,2989,train-clean-100,1069,5946,04 - Chapters 6-7,Don Quixote - Vol. 2, F ," Jamie Strassenburg, Cypress, California"
+138074,1296,train-clean-360,1072,2891,Chapter 7,Howards End (version 2), F , Gigi Minden
+138113,1336,train-clean-360,1073,10659,Part 2,Camp of the Dog, M , Charlie Blakemore
+138246,1263,train-clean-100,1078,83,20 Minutes Past Ten to 47 Minutes Past Ten P.M. (p. 108),Round the Moon, F , Leonie Rose
+138289,1460,train-clean-360,1079,107,21 - Troubles in the Fold--A Message,Far from the Madding Crowd, F , E. Plein
+138486,1571,train-clean-360,1086,2612,"Chapter XI, Part 10","History of England, from the Accession of James II - (Volume 3, Chapter 11)", M , Bob Tassinari
+138545,949,train-clean-360,1091,16960,The Process of Colonization,"History of the United States, Vol. I", M , ontheroad
+138617,1323,train-clean-360,1093,4583,Part 9,Dialogues Concerning Natural Religion, M , Leon Mire
+138631,2319,train-clean-360,1094,2864,Chapter 10 - The Matchmaking Virtues of a Double Garden,Trumpet Major, M , Jack Farrell
+138866,707,train-clean-360,1103,19500,Containing a Love Letter,Can You Forgive Her?, M , Jason Mayoff
+139009,583,train-clean-360,1111,1142,Chapter 1,Typhoon, M , Russ Maxwell
+139035,1776,train-clean-360,1113,3623,Chapter V.1-2,Golden Bough, M , Jim Eastman
+139200,589,train-clean-360,1119,12239,Chapter IV,Dead Men's Money, F , Stephanie Konig
+139290,1425,train-clean-360,1123,23,Chapter I,Narrative of the Life of Frederick Douglass, F , Jeanette Ferguson
+139304,1363,train-clean-100,1124,12163,THE AWAKENING (1400 words),Sleeper Awakes, F , Tammy Sanders
+139336,1160,train-clean-360,1126,3755,Ch. 1 Origin of Government in General,Common Sense, M , Gary Gilberd
+139350,1556,train-clean-360,1127,3091,"Part 1, Chapter 9: The Evening of the Fifth of June",Eight Hundred Leagues on the Amazon, M , geofred
+139387,1445,train-clean-360,1128,102,Swimming in Glory,Tragedy of Pudd'nhead Wilson, M , Michael Yard
+139469,2002,train-clean-100,1133,18247,"16 Vol 2, Ch 05",Last Man, M , Larry Maddocks
+139612,596,train-clean-360,1139,4018,The Story of the Old Man Who Made Withered Trees to Flower,Japanese Fairy Tales, F , Carol Goode
+139681,1343,train-clean-360,1142,699,"England Under Harold the Second, and Conquered by the Normans",Child's History of England, F , Laura Koskinen
+139717,1160,train-clean-360,1143,20203,Chapter  5 Early Friends in Philadelphia,Autobiography of Benjamin Franklin, M , Gary Gilberd
+139733,1456,train-clean-360,1144,20795,Introduction,Cricket on the Hearth, M , Jason Isbell
+139743,803,train-clean-360,1145,7477,Preface & The Bride of the Man-Horse,Book of Wonder, M , Greg Elmensdorp
+139797,1472,train-clean-360,1149,14770,13 - A World of High Medical Knowledge,Life in a Thousand Worlds, F , Sarah Jennings
+140040,1498,train-clean-360,1158,498,Ch. VI - Sunshine In A Shady Place,Rebecca of Sunnybrook Farm, F , Lori Hebel
+140067,1482,train-clean-360,1159,1719,The Vision of the King,Ballad of the White Horse, M , Joshua B. Christensen
+140221,1513,train-clean-360,1171,1635,0 Introduction,Ion, M , Simon-Peter Zak
+140277,250,train-clean-100,1176,15082,Preface,Life of the Spirit and the Life of Today, F , Mary Reagan
+140639,1754,train-clean-360,1192,8813,"Nover 8, '76 --- The Oaks and I",Specimen Days, F , Joan Freeman
+140651,1552,train-clean-360,1193,2017,"Section 1, Chapters 1-4",Dhammapada, M , Roger Turnau
+140718,3733,train-clean-360,1195,6124,11,"Pamela, or Virtue Rewarded", F , Melanie Schleeter McCalmont
+140931,1603,train-clean-360,1202,21813,Chapter 7,Madman and The Pirate, M , Arouet
+141083,1580,test-clean,1209,108,"The Adventure of the Three Students, part 1 (p. 144)",Return of Sherlock Holmes, F , TinyPines
+141135,1552,train-clean-360,1211,944,03-2 - Maldonado,Voyage of the Beagle, M , Roger Turnau
+141208,2039,train-clean-360,1212,5157,Chapter 13 Part 2 - OUR CRUISE ON THE LAKE TANGANIKA-- EXPLORATION OF THE NORTH-END OF THE LAKE--THE RUSIZI IS DISCOVERED TO ENTER INTO THE LAKE--,How I Found Livingstone, M , Anton
+141231,1272,dev-clean,1215,21873,Chapter 01,Planet of the Damned, M , John Rose
+141268,1226,train-clean-360,1217,21889,The Rebellion,Peter the Great, M , Russ Lemker
+141320,1571,train-clean-360,1222,11231,Chapter 2,"Bartleby the Scrivener, A Story of Wall Street.", M , Bob Tassinari
+141571,1634,train-clean-360,1238,8390,Chapter 4: Buddhism and the Peasant,Buddhism and Buddhists in China, M , daxm
+141613,188,train-clean-360,1243,6100,Jimmy And The Green-Eyed Monster,Pollyanna Grows Up, F , Mary Anderson
+141642,1535,train-clean-360,1244,338,THE TOAD AND THE BOY,Old Indian Legends, M , Robert Scott
+141713,1603,train-clean-360,1250,18972,Chapter 10,Zadig or the Book of Fate, M , Arouet
+141777,1263,train-clean-100,1254,19090,Chapter 5,Star Hunter, F , Leonie Rose
+141791,1536,train-clean-360,1255,2612,"Chapter XII, Part 6","History of England, from the Accession of James II - (Volume 3, Chapter 12)", M , Marco
+141819,1645,train-clean-360,1258,124,Bel and the Dragon,Bible (KJV) Apocrypha/Deuterocanon:  Additions to Daniel, M , David Shamp
+142276,250,train-clean-100,1284,4276,Chapter 02,North and South, F , Mary Reagan
+142345,2094,test-clean,1288,507,"Book 1, Chapter 6: The Hall Farm",Adam Bede, F , amycsj
+142396,1737,train-clean-100,1289,291,Prologue: The Olympians,Golden Age, F , Erin Hastings
+142727,296,train-clean-360,1316,21077,Book 2   Chapter 4 - Definition of the Emotions,Mind and the Brain, M , Carl Manchester
+142744,1776,train-clean-360,1317,5827,Chapter VI - On Induction,Problems of Philosophy, M , Jim Eastman
+142776,1963,train-clean-100,1319,10136,012 - Recipes. Chapter 6. Part 5.,Book of Household Management, F , Belinda Brown
+142896,1789,train-clean-360,1320,1913,Chapter 25,Drums of Jeopardy, M , Vin Reilly
+142912,1743,train-clean-100,1321,3074,THE WATCHMAN OF THE OLD ORCHARD: The Kingbird and the Great Crested Flycatcher.,Burgess Bird Book for Children, M , Bryan Ness
+143005,1054,train-clean-360,1326,15143,What Was It? by Fitz-James O-Brien,Famous Modern Ghost Stories, F , Igor Teaforay
+143022,639,train-clean-360,1327,1312,A Lonely Ride,Selected Stories of Bret Harte, M , Robert Beach
+143262,2093,train-clean-360,1333,21301,How I Talked With My New Friend.,Bunyip Land, M , RK Wilcox
+143307,1556,train-clean-360,1335,8082,Over the River,Canyons of the Colorado, M , geofred
+143321,207,train-clean-360,1336,499,A False Friend,Tom Swift in the Land of Wonders, M , Kevin McAsh
+143361,1874,train-clean-360,1338,734,Chapter XXXIX: Gothic Kingdom of Italy Pt. 2,History of the Decline and Fall of the Roman Empire Vol. IV, M , Ernst Schnell
+143477,1509,train-clean-360,1347,208,Chapter 2,Daisy Miller: A Study in Two Parts, F , Miranda Stinson
+143483,1769,train-clean-360,1349,11136,Discourse First Part - Opening,Discourse Upon the Origin and the Foundation of the Inequality Among Mankind, M , ej
+143521,1913,train-clean-360,1352,3155,Introduction,She, M , Geoff Cowgill
+143625,1827,train-clean-360,1358,871,Aphorisms 176 - 181 Appendix A & B ( Appendix B is The Hymn of Cleanthes ),Golden Sayings of Epictetus, M , Doug Wetzel
+143879,1926,train-clean-100,1377,2834,Chapter 31,Portrait of a Lady Vol 2, F , Nikki Sullivan
+143946,1806,train-clean-360,1379,940,00 - Introduction,Last Of The Mohicans (A Narrative of 1757), M , Gary W. Sherwin
+144019,3446,train-clean-360,1384,2512,Chapter XVI -- Beche de Mer English,Cruise of the Snark, F , kayo
+144135,1987,train-clean-360,1390,1081,"Part I, Chapter VIII",Dead Souls, M , Michael Macedonia
+144485,2401,train-clean-360,1411,766,Enthusiasm,David Copperfield, F , Matt Warzel
+144965,1849,train-clean-360,1437,13249,The Unseen Foes Of Wild Life,Our Vanishing Wild Life, M , Kelly Dougherty
+145015,2391,train-clean-100,1440,17797,Chapter 2: Description of Steventon--Life at Steventon--Changes of Habits and Customs in the last Century,Memoir of Jane Austen, F , treefingers
+145083,1845,train-clean-360,1442,19403,Chapter 22,Murder at Bridge, F , Katie Gibboney
+145138,3307,train-clean-360,1446,1887,The Crab Spider,Life of the Spider, M , Doug Allison
+145458,254,train-clean-100,1462,3688,Introduction by A.A. Milne,Chronicles of Clovis, M , Alan Davis Drake (1945-2010)
+145699,1509,train-clean-360,1477,640,Story of the Emperor's New Clothes,Yellow Fairy Book, F , Miranda Stinson
+146111,1422,train-clean-360,1501,2233,Chapter 5,Damsel in Distress, F , Yazpistachio
+146161,1737,train-clean-100,1503,21032,Leaf Pattern for Half-Square Shawl,Exercises in Knitting, F , Erin Hastings
+146197,1061,train-clean-360,1504,721,A Little Snow-Bird,Birds' Christmas Carol, F , Missie
+146346,589,train-clean-360,1511,18470,The Countess de Santiago,Second Latchkey, F , Stephanie Konig
+146437,1933,train-clean-360,1515,2814,Part 1,Dead, F , iremonger
+146770,1401,train-clean-360,1537,12460,Stag-hunting on a Tricycle,Pomona's Travels, F , Sibella Denton
+147036,1963,train-clean-100,1546,20912,THE CONFESSION OF ODETTE RIDER,Daffodil Mystery, F , Belinda Brown
+147110,2061,train-clean-360,1550,6026,THE SEA LINK LOST,Chronicles of Canada Volume 08 - Great Fortress : A Chronicle of Louisbourg 1720-1760, F , Jodi Krangle
+147149,1993,dev-clean,1553,2153,Jem Wilson's Repulse.,Mary Barton, F , Wendy Belcher
+147193,2074,train-clean-360,1554,677,Part 1 of Theseus: How Theseus Lifted the Stone,"Heroes, or Greek Fairy Tales for my Children", M , Tysto
+147627,2269,train-clean-360,1575,20740,"Twardowski, the Polish Faust",Myths and Legends of All Nations, F , Rhonda Federman
+147956,1988,dev-clean,1592,19810,"Book 1 (The Shimerdas), Chapter 3",My Antonia, F , Ransom
+148312,1851,train-clean-360,1600,1430,The Taming of the Shrew,Beautiful Stories from Shakespeare, F , Kehinde
+148436,1867,train-clean-100,1605,11093,The First Day,Trailin'!, M , Rowdy Delaney
+148521,2240,train-clean-360,1610,816,<b>Part 2: Influence of Democracy on the Feelings of Americans</b> 2.01: Why Democratic Nations Show a More Ardent and Enduring Love of Equality than of Liberty; 2.02: Of Individualism in Democratic Countries,Democracy in America II, M , Ralph Volpi
+148550,2230,train-clean-360,1611,11052,Chapter 3,Custom of the Country, F , Isosceles
+148920,204,train-clean-360,1623,764,Leyden,Hans Brinker or The Silver Skates, M , Mark F. Smith
+148962,1851,train-clean-360,1626,2600,Chapter 04,"War and Peace, Book 04: 1806", F , Kehinde
+148989,1737,train-clean-100,1628,3499,Waiting,Jo's Boys, F , Erin Hastings
+149033,2074,train-clean-360,1632,21415,Preface,Young Visiters, M , Tysto
+149214,2086,dev-clean,1645,77,Preface,House of the Seven Gables (Version 2), M , Nicodemus
+149236,1323,train-clean-360,1646,2612,"Chapter XIII, Part 1","History of England, from the Accession of James II - (Volume 3, Chapter 13)", M , Leon Mire
+149482,2514,train-clean-100,1660,1000006,"Book Sixth, Chapter 3",Wings of the Dove, M , S. Young
+149735,1422,train-clean-360,1668,111,07 - Wherein Freckles Wins Honor,Freckles, F , Yazpistachio
+149791,3905,train-clean-360,1672,961,Under Water,Glinda of Oz, F , J. Rebecca Franklin
+149874,2277,dev-clean,1676,5267,What Poverty Threatened: Of Granite and Brass,Sister Carrie, F , zinniz
+149939,2533,train-clean-360,1679,18000,Ch 19: Lord Chiltern Rides His Horse Bonebreaker,Phineas Finn the Irish Member, M , Steven Proctor
+150127,1649,train-clean-360,1682,1557,Chapter 14,Men of Iron, F , Kalynda
+150351,1841,train-clean-100,1693,22302,The Native Inhabitants of the Pacific Slope,Western United States, F , Laura Caldwell
+150469,2194,train-clean-360,1698,2600,Chapter 21,"War and Peace, Book 05: 1806-1807", F , RobbieRogers
+150674,2272,train-clean-360,1707,735,Chapter XLIX: Conquest of Italy by the Franks Pt. I,History of the Decline and Fall of the Roman Empire Vol. V, M , Alec Daitsman
+150843,2060,train-clean-360,1715,2604,Chapter 06,Longest Journey, F , Julie Pandya
+150915,2334,train-clean-360,1718,228,"Bk 12: The Fortunes of War, pt 1",Aeneid, M , David Lipa
+151776,2201,train-clean-360,1756,3300,Ch. 3 That the Division of Labour is Limited by the Extent of the Market,"Wealth of Nations, Book 1", M , Stephen Escalera
+151817,1851,train-clean-360,1759,783,"Astounding, Yet True",Lost City, F , Kehinde
+152137,2416,train-clean-100,1778,1218,P-1 Ch 6-A Devil's Work,Adventures of Jimmie Dale, F , Julia Albath
+152224,1061,train-clean-360,1782,5341,A Tea Table Conversation,Kilmeny of the Orchard, F , Missie
+152253,2289,train-clean-100,1784,3725,Attila the Hun,Famous Men of the Middle Ages, M , David Kleparek
+152373,2035,dev-clean,1790,6634,06 - Kings of the Seventh Century,"Popular History of Ireland, Book 01", F , Sharon Bautista
+152824,2254,train-clean-360,1814,259,The Ballad of The Black Fox Skin,Selections from Ballads of a Cheechako, F , Heidi Preuss
+152842,2229,train-clean-360,1815,1640,I Repent,Lilith, M ," Pete Williams, Pittsburgh, PA"
+152900,2384,train-clean-100,1817,4229,"Vol I Ch 2: Plan and Preparations, pt 3","South Pole; an account of the Norwegian Antarctic expedition in the Fram, 1910-12", M , Ger
+153309,3923,train-clean-360,1839,1851,Sweetwater in a New Role,Woman in the Alcove, M , Sean Michael Hogan
+153728,2388,train-clean-360,1859,6630,The Passing of the Constellations,Curiosities of the Sky, M , Greg Bell
+153947,2412,dev-clean,1874,1906,Preface,Erewhon, F , calystra
+154071,1867,train-clean-100,1880,11880,Two Apparitions,Ronicky Doone, M , Rowdy Delaney
+154282,2785,train-clean-360,1893,2083,Book One - XI - Traveling in Chili,In Search of the Castaways, F , humeangel
+154671,2427,train-clean-360,1913,6053,02 - LETTER II. Mr. Villars to Lady Howard,Evelina, M , Ed Meade
+154825,2518,train-clean-100,1918,10743,Chapter 10 Part (1) THE ESCAPE,Moonfleet, M , Rob Powell
+155151,2960,train-clean-360,1933,24518,"The Alchymists, Part 10",Memoirs of Extraordinary Popular Delusions and the Madness of Crowds Volume 1, M , Scotty
+155520,2581,train-clean-360,1944,5270,Ch 21 Merle Shirley Overacts,Film Mystery, F , Julie Levi
+155646,1923,train-clean-360,1948,13833,05 - The Camp Of The Ghosts,Blackfeet Indian Stories, F , Maire Rhode
+155944,2137,train-clean-360,1963,14410,04 - Canto IV - Conclusion,"Gawayne and the Green Knight, version 2", M , Jerome Lawsen
+155948,3072,train-clean-360,1965,3335,"Ch 02-The Vigor of Life, pt 2",Theodore Roosevelt: an Autobiography, M , Chris Amos
+156014,2494,train-clean-360,1968,4507,Thought and Character,As a Man Thinketh, M , Mark Cawley
+156153,2499,train-clean-360,1977,9571,Introduction,Snow-Bound:  A Winter Idyl, M , Paul Henry Tremblay
+156159,2816,train-clean-360,1978,282,Chapter 4,"Eothen, or Impressions of Travel brought Home from the East", M , Andrew Symons
+156224,2920,train-clean-360,1980,4224,Some Grave Talk In Gay Company,Mr Hogarth's Will, F , Rechelle
+156474,2673,train-clean-360,1992,16332,Chapter XX,Short Life of Abraham Lincoln, M , jude kaider
+156718,2531,train-clean-360,2008,27922,Chapter 01,David and the Phoenix, M , Greg Weeks
+156738,2481,train-clean-360,2011,11146,Chapter X,Expedition of the Donner Party and its Tragic Fate, F , Alana Jordan
+156963,1337,train-clean-360,2017,12434,Study II: MAN'S RESPONSIBILITY FOR HIS ACTS Pt. 1: 1. The Nature of Sin; 2. The Origin of Sin According to the Story in Genesis 3; 3. The Different Theories Regarding the Origin of Sin,Making of a Nation: The Beginnings of Israel's History, M , Steven Rushing
+157054,2368,train-clean-360,2024,3526,Chapter 21,Five Weeks in a Balloon, M , Alex C. Telander
+157088,205,train-clean-360,2025,11867,Chapter 11,Alaskan, F , Esther
+157236,2577,train-clean-360,2033,836,Two Bazaars,Phoenix and the Carpet, F , K Hindall
+157263,2562,train-clean-360,2037,72,Treachery,"Thuvia, Maid of Mars", M , Scott Merrill
+157400,2787,train-clean-360,2046,7374,Chapter 10,American Politician, M , Quentin Manuel
+157475,2532,train-clean-360,2052,17371,THE NEW TIN GUTTER,Raggedy Andy Stories, F , Jennifer Lott
+157636,2696,train-clean-360,2063,18096,Smoking in the Restoration Era,Social History of Smoking, M , anonymous
+157830,209,train-clean-360,2077,105,Chapter 02,Persuasion (version 3), F , Moira Fogarty
+157857,2581,train-clean-360,2078,10371,"Bk. 1, Chapter 5",Cinema Murder, F , Julie Levi
+157963,908,test-clean,2089,574,The Book of Thel,Poems of William Blake, M , Sam Stinson
+158074,2709,train-clean-360,2095,3604,Women Voters Organize,Jailed For Freedom, F , PopularOutcast
+158744,2654,train-clean-360,2120,7381,Lucy Morris,Eustace Diamonds, M , Notelrac
+159056,205,train-clean-360,2133,8728,01 - The Boy 1727-1741,Chronicles of Canada Volume 11 - The Winning of Canada: a Chronicle of Wolfe, F , Esther
+159227,1944,train-clean-360,2143,10360,My Red Cap - Part I,Shoes and Stockings: A Collection of Short Stories, F , Carolyn Frances
+159371,2074,train-clean-360,2153,40359,22 - The Yellow Dwarf,Fairy Ring, M , Tysto
+159771,1841,train-clean-100,2179,24872,Chapters 19 - 21,Tale of Master Meadow Mouse, F , Laura Caldwell
+160187,2812,train-clean-360,2210,58,Book 2,Paradise Regained, M , Greg Hartley
+160438,2201,train-clean-360,2222,3300,Book 3: Ch. 1 - Of the Natural Progress of Opulence,"Wealth of Nations, Book 2 and 3", M , Stephen Escalera
+160592,240,train-clean-360,2234,2678,01 - Part 1 - Life,Poems: Series One, M , Shurtagal
+160602,1335,train-clean-360,2235,163,Clover-Blossom,Flower Fables, F , Clarica
+160949,2823,train-clean-360,2251,19993,The Husband who was to Mind the House,Childhood's Favorites and Fairy Stories, M , ChrisC
+161100,2110,train-clean-360,2256,4042,Musical Pedagogics,Mozart: The Man and the Artist as Revealed in His Own Words, M , Aaron Elliott
+161166,707,train-clean-360,2260,5792,The Frost Giants,Stories Mother Nature Told Her Children, M , Jason Mayoff
+161217,2758,train-clean-360,2264,22381,14 - Third Dynasty: Minor Divinities,Myths and Legends of Ancient Greece and Rome, F , SopranoHarmony
+161707,2294,train-clean-360,2289,604,Chapter I,Gulliver of Mars, M , James Christopher
+161972,1923,train-clean-360,2303,12084,The First Quarrel,Revelations of a Wife, F , Maire Rhode
+162129,2673,train-clean-360,2305,17417,10 - Prohibition and Socialism,What Prohibition Has Done to America, M , jude kaider
+162238,2397,train-clean-360,2311,19023,Blood Will Tell,Daughter of the Sioux, M , texttalker
+162375,204,train-clean-360,2317,421,I Come to My Journeys End,Kidnapped, M , Mark F. Smith
+162667,949,train-clean-360,2337,2464,"Book 1, Chapter 1","History of Florence and of the Affairs of Italy, Vol. 1", M , ontheroad
+163249,3853,dev-clean,2364,4770,Chapter 16- Mustered In,Work: A Story of Experience, F , M. Bertke
+163322,2785,train-clean-360,2371,12,Chapter 5,Through the Looking-Glass (version 3), F , humeangel
+163380,2285,train-clean-360,2374,76,Chapter 13,Adventures of Huckleberry Finn (version 3), M , Bob Sage
+163505,3185,train-clean-360,2378,8933,29 - The Blue Belt,Popular Tales from the Norse, M , JohnNewman
+163597,2481,train-clean-360,2382,540,10 - The Norka,Red Fairy Book, F , Alana Jordan
+163726,3105,train-clean-360,2386,840,69 - Not To Be Put Up With,"Lorna Doone, a Romance of Exmoor", M , gfairch511
+163935,1335,train-clean-360,2398,25914,Rice,Khaki Kook Book, F , Clarica
+164100,2992,train-clean-360,2406,123,Slaves,"Earth's Core, At the", M , davechase
+164187,2853,train-clean-360,2414,1000003,Ch 03 pt 1,Miss Mapp, F , Jane Greensmith
+164327,3008,train-clean-360,2420,1685,Reporter and Detective,Mystery of the Yellow Room, F , Gloria Zbilicki
+164461,2162,train-clean-360,2425,22362,Nicholas Nickleby Part 1,Appreciations and Criticisms of the Works of Charles Dickens, M , Ray Clare
+164927,3738,train-clean-360,2447,3436,One Hundred and Second Night,"Book of A Thousand Nights and a Night (Arabian Nights), Volume 02", F , Collee McKinnon
+165387,2269,train-clean-360,2467,26379,Of the wonderful Transmigration of Master Richard Rustick into the Body of a Bear,Vice in its Proper Shape, F , Rhonda Federman
+165428,3082,train-clean-360,2470,12216,"Life, Career And Death Of Capt. Thomas White.",Pirates Own Book, M , Logan McCamon
+165701,1874,train-clean-360,2484,7347,001 - Preface,Lincoln Story Book, M , Ernst Schnell
+166420,3070,train-clean-360,2501,3479,Valley Of The Blue Poppies,Metal Monster, M , Mike Schwabe
+166546,3081,dev-clean,2510,1857,Book 01 As Seen By Two Strangers Chapter 04 Sweet Little Miss Clarke,Initials Only, F , Renata
+166683,3105,train-clean-360,2516,435,Liquids,"Miracle Mongers, an Expose", M , gfairch511
+167022,3274,train-clean-360,2529,19474,"02 - Rakkeed, Stalin, and the Rev. Keeluk",Uller Uprising, M , Morgan Saletta
+167597,3294,train-clean-360,2562,2600,Chapter 09,"War and Peace, Book 10: 1812", F , Marcy Fraser
+168062,3157,train-clean-360,2583,13234,01 - Ester's Home,Ester Ried, F , TriciaG
+168198,3224,train-clean-360,2588,26690,"06 - Chapter 5, part 1",Pirates of Panama, F , Acacia Wood
+168497,3187,train-clean-360,2603,18948,02,Damn! A Book of Calumny, M , Wasichu
+168623,1624,train-clean-100,2614,135,Bk 03 Ch 02: Two Complete Portraits,Miserables Vol. 2, M , Daniel Shorten
+169291,3258,train-clean-360,2632,2376,Raising Money,Up from Slavery: An Autobiography, F , mwalimu
+169619,2769,train-clean-360,2642,17866,04 - Chapter 04,Murder in the Gunroom, M , Anthony Wilson
+169656,2294,train-clean-360,2643,27090,19 - The Last of the Sea-Rovers,Great Pirate Stories, M , James Christopher
+170138,1462,dev-clean,2663,94,Chapter 2,Alexander's Bridge (version 2), F , E. Tavano
+170151,2196,train-clean-100,2664,6911,5 - Failure as a Success,Majesty of Calmness, F , Andrea Fiore
+170212,3972,train-clean-360,2669,2145,Chapter 11,Ben-Hur: A Tale of the Christ Book 1, F , Joy Easton
+170379,2196,train-clean-100,2677,22814,Chapter 12 - The Nature of Hypnosis,Practical Guide to Self-Hypnosis, F , Andrea Fiore
+170438,2827,train-clean-360,2680,1864,18 - The Death of Stonewall Jackson,Hero Tales from American History, M , David Leeson
+170452,3482,train-clean-360,2681,1827,Chapter 5,Life Of Charlotte Bronte Volume 1, F , Hayden
+170950,3368,train-clean-360,2707,1497,Bk 2 pt 3,Republic, M , Jim Allman
+171006,3440,train-clean-100,2709,6440,14 - Chapter Eleventh,Elsie Dinsmore, F , Heidi Will
+171107,3289,train-clean-360,2715,2850,"01 - Book 1, Ch 01-02",Wars of the Jews, M , lukeprog
+171631,3723,train-clean-100,2732,23772,11 - Devotion 11,Devotions upon Emergent Occasions, M , Kevin Lavin
+172156,3330,train-clean-360,2752,4926,Ch 03: Merlin,Age of Chivalry, F , B. G. Oxford
+172357,460,train-clean-100,2761,3533,00 - Preface,Sunshine Sketches of a Little Town (version 2), M , Dave Ranson
+173230,3866,train-clean-360,2797,1895,Book the third- chapter VII,Armadale, M , SilverG
+173564,3168,train-clean-100,2813,2600,Chapter 31,"War and Peace, Book 11: 1812", M , David Anton
+173591,3549,train-clean-360,2816,3721,"Ch 05 (1564, 1565) Conspiracy",Pioneers of France in the New World, F , Katie Riley
+174132,3483,train-clean-360,2841,10002,02 - The Plain of Silence,House on the Borderland, M , Alan Winterrowd
+174172,2196,train-clean-100,2843,13193,Supreme Control of Age,Supreme Personality, F , Andrea Fiore
+174511,1401,train-clean-360,2860,5660,05 - Official Investigation,Mary Louise, F , Sibella Denton
+174923,3879,train-clean-100,2877,18640,Ch 06: Phineas and His Old Friends,Phineas Redux, F , Keneva
+175390,3546,train-clean-360,2896,980,Chapter 01,Alice Adams, F , Jeannie
+175448,3852,train-clean-360,2897,11746,Appendix B: The Outfit for Travelling in the South American Wilderness pt 1,Through the Brazilian Wilderness, F , selniff
+175658,3526,train-clean-100,2912,1028,Chapter IX,Professor, F , Bereni
+175950,3699,train-clean-100,2927,1079,Chapter 25-27,"Life and Opinions of Tristram Shandy, Gentleman Vol. 2", M , Bruce Pirie
+176256,2769,train-clean-360,2938,5164,37 - What Was Hidden Under the Floor,Beetle, M , Anthony Wilson
+176270,3446,train-clean-360,2939,2464,Bk 5 Ch 3: The Florentines go to war with Lucca,"History of Florence and of the Affairs of Italy, Vol. 2", F , kayo
+176651,3526,train-clean-100,2954,5122,01 - Chapter 01,Trail of the Lonesome Pine, F , Bereni
+176698,1121,train-clean-360,2955,10418,13 - Chapter XIII,Money Moon: A Romance, M , John Lieder
+176853,4260,train-clean-360,2962,10940,"30 - Gipsies, Tramps, Beggars, and Cours des Miracles, Part 1","Manners, Customs and Dress During the Middle Ages and During the Renaissance Period", F , Clacas
+177234,2589,train-clean-360,2983,14453,The Remission of Sins - Part 1,Hope of the Gospel, M , Jordan
+177627,3490,train-clean-360,3009,28346,12 - Chapter XII,Deathworld, M , Gregg Margarite (1957-2012)
+178028,3835,train-clean-360,3028,2600,Chapter 02,"War and Peace, Book 12: 1812", M , M.White
+178149,3717,train-clean-360,3037,25270,Chapter 12,Hunters Out of Space, M , Elliott Miller
+178355,3664,train-clean-100,3047,10030,Chapter 15: Champion Buffalo Killer,"Life of Honorable William F. Cody, Known as Buffalo Bill The Famous Hunter, Scout and Guide", M , Barry Eads
+178449,2573,train-clean-360,3049,1098,Chapter 19,Turmoil (Growth Trilogy Vol 1), F , Becca B
+178748,3584,train-clean-360,3068,29866,15 - Cap's Country Capers,Hidden Hand, F , Bridget Gaige
+179154,2159,train-clean-100,3082,19342,05 - Amusing experiments,"Complete Hypnotism, Mesmerism, Mind-Reading and Spiritualism", M , Matthew Westra
+179183,1841,train-clean-100,3084,27683,The Seeing Hand,World I Live In, F , Laura Caldwell
+180298,374,train-clean-100,3133,1608,16 - Chapter 16,Camille, M , kumarei
+180923,3857,train-clean-100,3165,27969,Part 7,County Regiment, M , Epistomolus
+181173,2182,train-clean-100,3179,479,03 - Chapter 03,Little Lord Fauntleroy (version 2), F , Susan Umpleby
+181420,3923,train-clean-360,3191,19044,Biographical Sketch,Adrift on an Ice-Pan, M , Sean Michael Hogan
+181961,2162,train-clean-360,3215,7352,Chapter 36  The Excursion,First and Last, M , Ray Clare
+182255,3982,train-clean-100,3227,4020,14 - The Great Fight for Clean Government pt 1,Arcadian Adventures with the Idle Rich, F , Kate Adams
+182315,3857,train-clean-100,3233,6882,Part 1,This Simian World, M , Epistomolus
+182389,3989,train-clean-360,3238,14958,02 - Why Peter Rabbit Cannot Fold His Hands,Mother West Wind 'Why' Stories, M , Rayne
+183239,4057,train-clean-360,3287,17655,09 - On Buttons,Observations of an Orderly, F , RoseA
+183988,4148,train-clean-360,3326,283,17 - Bk. 3 Chapter 17,Reef, M , David A. Moore.
+184264,4039,train-clean-360,3334,13,Preface and Fits 1 & 2,Hunting of the Snark (version 2), M , Shawn Craig Smith
+184447,4111,train-clean-360,3344,15818,Leaf III.,Melting of Molly, F , Rachel P.
+185074,3972,train-clean-360,3373,6960,10 - Chapter 10,Narrative of the Life of Mrs. Mary Jemison, F , Joy Easton
+185125,3864,train-clean-360,3377,10760,08 - Ornithology On A Cotton Plantation,Florida Sketch-Book, M , Tom Watts
+185436,2162,train-clean-360,3395,7354,Chapter 17  The Relic,On Something, M , Ray Clare
+185457,3977,train-clean-360,3396,24583,"07 - Ch 6. Pollen, Or Bee-Bread",Langstroth on the Hive and the Honey-Bee: A Bee Keeper's Manual, M , LivelyHive
+185485,1212,train-clean-360,3398,26640,Chapter 8,Humbugs of the World, F , Lee Ann Howlett
+186175,4014,train-clean-100,3424,22079,07 - The Timely Rescue,Brighton Boys in the Radio Service, M , Tom Clifton
+186230,3645,train-clean-360,3428,10123,17 - Aunt Jane's Heiress,Aunt Jane's Nieces, F , MaryAnn
+187005,4222,train-clean-360,3468,28952,Chapter 10,Mr. Wicker's Window, F , msjodi777
+187464,711,train-clean-360,3482,22834,Chapter 3,Voyage Round the World in His Majesty's Frigate Pandora, M , Roy Schreiber
+210777,8455,test-clean,4605,27067,The New Governor,Fixed Period, M , thecheops
+216547,6880,train-clean-100,4861,360,Preface,What is Property? An Inquiry into the Principle of Right and of Government, M , Capybara
+220951,4734,train-clean-360,5086,19289,"[Part 1: On the Influence of the Prophets in the Evolution of Humanity] 1. Nature is Governed by One Universal Law, 2. Proofs and Evidences of the Existence of God, 3. The Need of an Educator",Some Answered Questions, M , Adib Masumian
+224746,5538,train-clean-360,5273,34894,2 - Chapter 2 Briarwood College Chapter 3 Some of the Girls,Briarwood Girls, F , Linda Velwest
+230928,6099,train-clean-360,5557,21087,29  Home at Last!,Ghost Ship, F , Cheri Gardner
+231834,6519,train-clean-360,5598,19069,02 - Shadows on the Blind,Silent House, F , Monica Knuppe
+232057,6458,train-clean-360,5604,27365,The Cure for Love,Story of the Days to Come, M , Dennis Blake
+232690,8228,train-clean-360,5640,17,Alma 29-32,Book of Mormon, F , hgal2010
+233342,6080,train-clean-360,5678,6456,"News, Truth, And A Conclusion",Public Opinion, M , progressingamerica
+233366,8028,train-clean-360,5679,13611,"Chapter 3, Sexual Inversion in Men, Part 13","Studies in the Psychology of Sex, Volume 2", M , Tom Geller
+234067,6497,train-clean-360,5715,6005,03 - Mildred Lawson Chapter III,Celibates, M , James E. Carson
+240992,8396,train-clean-360,6045,9103,15 - The Resurrection,Miracles of Our Lord, M , gloriousjob
+244431,8494,train-clean-360,6183,3653,The Heart of Rebellion Part 2,Guns of Bull Run, M , Bill Yallalee
+245687,7956,train-clean-360,6232,17611,"Question 76 - OF THE UNION OF BODY AND SOUL (In Eight Articles), part 1","Summa Theologica - 04 Pars Prima, On Man", M , Devon Purtz
+246889,7069,train-clean-360,6286,5976,01 - Helen Lingard,"Thomas Wingfold, Curate", M , John Schuurman
+248638,4813,train-clean-100,6371,21895,Milton and the Blue Hills,Old Coast Road From Boston to Plymouth, M , Steve Mattern
+252322,6848,train-clean-100,6545,33556,Glencore Castle,Fortunes of Glencore, M , KarlHenning
+254918,7342,train-clean-360,6663,24777,"First Part, Chapter IV, part 3. Marco Polo.","Celebrated Travels and Travellers, vol.1", F , Carol
+258250,7832,train-clean-360,6773,3441,Six Hundred and Thirty-seventh Night to Six Hundred and Thirty-ninth Night,"Book of A Thousand Nights and a Night (Arabian Nights), Volume 07", M , DJRickyV
+258954,7520,train-clean-360,6801,40077,Chapter 2 - Economic Motives,Principles of Economics with Applications to Practical Problems, M , Richard Jackson
+261139,8629,train-clean-100,6885,5162,What Followed the Striking of the Clock,Agatha Webb, M , Shivansh Dhar
+262269,6937,train-clean-360,6923,9192,Chapter IV - No Holiday To-day,Channings, F , DVoice
+268287,8118,train-clean-360,7190,41020,"Book II, Chapter II","Clara Vaughan, Vol I.", F , Katie McClain
+269254,8643,train-clean-360,7232,17701,Preface,"Heptameron of the Tales of Margaret, Queen of Navarre, Vol. 1", M , jabc1950
+270777,8772,train-clean-360,7296,38219,Dreams of Childhood,General Introduction to Psychoanalysis, M , Martin Reyto
+271811,8008,train-clean-360,7348,37976,The First Valley,Dot and Tot of Merryland, M , Paul Adamson
+271888,7078,train-clean-100,7350,40999,III -The Masked Circe,Stolen Souls, F , Mary in Arkansas
+273050,8545,train-clean-360,7400,29203,Beginnings,Ruth Fielding at Briarwood Hall, F , Joanne Rochon
+274112,8063,train-clean-100,7451,2710,01 - Malaga,Louise de la Valliere, M , Robert Snoza
+274318,8108,train-clean-100,7459,10624,A Psychical Invasion part 6,John Silence, M , drakaunus
+274345,8095,train-clean-100,7460,19215,"Chapter 50, part 1","History of England from the Invasion of Julius Caesar to the Revolution of 1688, Volume 1E", M , Theodulf
+274549,8163,train-clean-360,7469,2150,04 - Metzengerstein,"Works of Edgar Allan Poe, Raven Edition, Volume 4", F , Greengecko
+275127,8300,train-clean-360,7493,1627,First Book - Chapter XII - Two of Them Sleep Badly,Evil Genius, F , Judith Parker
+275181,8098,train-clean-100,7496,8075,"07 - A Droll Fox-Trap, C. A. Stephens",Junior Classics Volume 8: Animal and Nature Stories, M , Arnold
+275885,7297,train-clean-360,7523,40367,"Chapter XII: The Library, Smoking-Room, and ""Den""",Decoration of Houses, F , Mudlark
+276730,8479,train-clean-360,7557,19831,"11 - Part 3, Chapter 12","Rise and Fall of the Confederate Government, Volume 1b", M , R.W. Rushing
+276907,7995,train-clean-360,7562,6098,"Book I, Chapter V: Containing certain adventures which befel Mr. Booth in the prison.",Amelia, F , Marie Hoffman
+277898,6965,train-clean-360,7599,1870,The Soul of Laploshka,Reginald in Russia and Other Sketches, M , NoelBadrian
+278217,8410,train-clean-360,7611,9189,What Happened In The Back Parlor Of The Banking-House,Henry Dunbar, F , Shauna Kennett
+278252,8098,train-clean-100,7612,42214,"A Peculiar, Cold Day",On A Donkey's Hurricane Deck, M , Arnold
+279153,8824,train-clean-360,7652,2529,09 - SENSATIONS AND IMAGES,Analysis of Mind, M , Mark Johnston
+279229,8075,train-clean-360,7658,37660,The Social Life Of The Newt,Of All Things, F , Melora
+279363,8266,train-clean-360,7664,9745,"Ch 10: The Great Assault, part 2",Rock of Chickamauga, M , Jeff K.
+279775,8329,train-clean-360,7683,19734,Graciosa and Percinent,Fairy Book, F , Betty Perry
+279849,4535,train-clean-360,7686,7504,Speeding Northward,Tom of the Raiders, M , Brett W. Downey
+280250,7995,train-clean-360,7702,1603,"05 - SPY ROCK, Part 2",Blue Flower, F , Marie Hoffman
+280354,8108,train-clean-100,7706,15202,Orpheus,"Young Folks' Treasury, Volume 2", M , drakaunus
+280922,8011,train-clean-360,7724,40745,10 - THE PEASANT MAREY,Short Stories, M , Greg Giordano
+281131,8527,train-clean-360,7736,16274,"Chapter III, part 1",Life and Adventures of Kit Carson, M , Gary Bohannon
+281187,8474,train-clean-360,7739,6328,"02 - Ali Baba And The Forty Thieves, Part 1",Junior Classics Volume 5: Stories That Never Grow Old, M , Scott Snowman
+281318,7850,dev-clean,7742,16140,Mother Magpie's Kindergarten,Curious Book of Birds, F , Jill Engle
+281471,8887,train-clean-360,7749,22948,Jealousy,Rival Pitchers of Oakdale, M , Andrew Hernandez
+282357,9022,train-clean-360,7793,29885,"The ""Argonauts""",Chronicles of Canada Volume 23 - The Cariboo Trail: A Chronicle of the Gold-fields of British Columbia, F , Claire M
+282391,6167,train-clean-360,7794,19994,Fables 17-20: The Lion and the Mouse; The Shepherd Boy and the Wolf; The Gnat and the Bull; The Plane Tree,Aesop for Children, F , Janet
+282926,8404,train-clean-360,7815,1725,11 - THE CABALLERO'S WAY,Heart of the West, F , Lynne Ray
+282977,8183,train-clean-360,7817,15263,"31  Arrival from Harford County, Maryland and Norfolk, VA","Underground Railroad, Part 3", F , Cheri Jordan
+282985,8152,train-clean-360,7818,19079,04 - The Spirit of Fear,Adventures of Lightfoot the Deer, M , Bigcowfeet
+283138,6620,train-clean-360,7825,4320,Appendix IV. Of Some Verbal Disputes,Enquiry Concerning the Principles of Morals, F , Amy Koenig
+283227,8609,train-clean-100,7829,5773,Chapter 17 The church-rate,Annals of a Quiet Neighbourhood, M , noblesavage
+283452,8238,train-clean-100,7839,26950,Introduction,Humorous Ghost Stories, F , Madam Fickle
+283478,7800,train-clean-100,7840,42630,"A Broken Window, and Glorious News",Outdoor Chums in the Big Woods, F , Arie
+284268,8490,train-clean-360,7871,41630,03 - Alope,Story of Geronimo, M , Matt Parker
+284424,7276,train-clean-360,7879,39159,01 - A Mysterious Arrival,Sky Island (version 2), F , ASPotter
+284756,8088,train-clean-100,7897,29607,From the Oceans Depths by Sewell Peaslee Wright,"Astounding Stories 03, March 1930", M , Jason Bolestridge
+285135,8592,train-clean-360,7910,2151,05 - The Man of the Crowd,"Works of Edgar Allan Poe, Raven Edition, Volume 5", M , Dylan Posa
+285314,1472,train-clean-360,7916,10059,Mr. Skeelty Of The Mill,Aunt Jane's Nieces on Vacation, F , Sarah Jennings
+285357,6563,train-clean-100,7920,793,Chapter 03   Germany's Rise to Military Airship Supremacy   Part 2,Aeroplanes and Dirigibles of War, M , William Tomcho
+285896,4837,train-clean-360,7947,41402,On The Moor,Yellow House, F , Sharon Kilmer
+286306,8573,train-clean-360,7963,5128,Cannae,Young Carthaginian, F , Paige G
+286667,8419,train-clean-100,7981,35002,The Dance of the Sand-hill Cranes,Among the Pond People, M , Jon Kissack
+287139,204,train-clean-360,7996,120,The Last of the Blind Man,Treasure Island (Version 4), M , Mark F. Smith
+287357,8498,train-clean-360,8007,1282,A Strange Story,Tom Swift Among the Diamond Makers, M , Ian Quinlan
+287387,8425,train-clean-100,8008,43005,Chapter VIII,Inevitable, M , Larry Wilson
+287645,8463,test-clean,8016,15263,Arrivals from Belleair and Maryland,"Underground Railroad, Part 4", F , Michele Fry
+287837,5909,train-clean-360,8025,12980,The Pony Rider Boys Inititated,Pony Rider Boys with the Texas Rangers, M , Mark Mickelson
+288043,1289,train-clean-360,76,6107,"Appendix, part 1",Truth About Jesus.  Is He a Myth?, F , Joanne Pauwels
+289453,559,train-clean-360,140,46,Stave 5,Christmas Carol, M , Bill Stackpole
+290047,8066,train-clean-360,8059,7026,Stories 25-26,Children's Edition of Touching Incidents and Remarkable Answers to Prayer, M , Tim Cote
+290349,8575,train-clean-360,8062,10615,Idea of duration and its simple modes Part I,Essay Concerning Humane Understanding, M , Jeremy Robertson
+290923,3816,train-clean-360,8085,20317,Chapter 1,Treatise on Staff Making and Pivoting, F , Bev J Stevens
+291101,8791,train-clean-360,8091,38172,Business is Business,Atlantic Narratives: Modern Short Stories, M , ScottReyonoldsVoice
+291168,8758,train-clean-360,8093,43429,Fishing Exploits,"Cats: Their Points and Characteristics, with Curiosities of Cat  Life, and a Chapter on Feline Ailments", M , Krzysztof Rowinski
+291374,8619,train-clean-360,8103,981,Sections 9-11,Beowulf, M , Tad E.
+291444,8425,train-clean-100,8106,13042,To the Public,"Knickerbocker's History of New York, Vol. 1", M , Larry Wilson
+291608,6924,train-clean-360,8112,18439,Chapters 4-7,What the Mother of a Deaf Child Ought to Know, F , Rapunzelina
+291718,6965,train-clean-360,8119,32069,Chapters 6 & 7,Letters from a Cat, M , NoelBadrian
+291953,8677,train-clean-360,8127,19221,Third Book: Poems 122-126,Golden Treasury of the Best Songs and Lyrical Pieces In the English Language, F , KHand
+292138,8605,train-clean-360,8134,43250,Edith's Home on the Thames,Our Little English Cousin, F , Kate Sterner
+292252,8825,train-clean-360,8138,12933,"William Shakespeare, Part 1","Little Journeys to the Homes of the Great, Vol. 1", F , Erin Schellhase
+292347,8459,train-clean-360,8136,32233,Notes 1,Wind Among the Reeds, M , sdaeley17
+292519,8555,test-clean,8145,36508,Poems by S. Foster Damon,Eight Harvard Poets, F , Michelle Goode
+292604,3967,train-clean-360,8150,38693,Chapter VII,Watchers, F , Christine Dufour
+293168,8506,train-clean-360,8162,43585,The Sweet Singer of Israel,Our Little Jewish Cousin, F , Denise Nordell
+293469,8419,train-clean-100,8172,34943,The Tree Frog's Story,Among the Meadow People, M , Jon Kissack
+293529,8138,train-clean-360,8175,5776,Sections 35 & 36,100%: The Story of a Patriot, M , Lee Smalley
+293663,8684,train-clean-360,8179,29809,"The Atom-Smasher by Victor Rousseau, Ch 10-12","Astounding Stories 05, May 1930", F , Alison Stewart
+293952,8747,train-clean-100,8185,42056,The New Page,Red Window, M , DeanOBuchanan
+294113,8820,train-clean-360,8193,4953,The Somnambulists,"Revolution, and other Essays", M , Ignare
+294466,4788,train-clean-100,8203,43699,Chapter 2,Phantom Town Mystery, M , Bill Boerst
+294523,8771,train-clean-360,8204,24354,Walter Scott The Boy of the Canongate: 1771-1832,Historic Boyhoods, F , Anna Millard
+294551,8725,train-clean-360,8206,1885,Introduction,Bunyan Characters Volume I, M , Gary Ericson
+294690,7910,train-clean-360,8212,1624,Chapter IV - The Curtain Falls,Two Destinies, F , southernemma
+294825,8463,test-clean,8216,2488,Introduction,Twenty Thousand Leagues Under The Sea (version 3), F , Michele Fry
+294887,8468,train-clean-100,8217,15263,"Portraits And Sketches - Lewis Tappan, Part 1","Underground Railroad, Part 5", F , Jennifer Dorr
+295197,8718,train-clean-360,8231,2486,Miss Katy-Did and Miss Cricket,Queer Little Folks, F , Deena Rhoads
+295385,8051,train-clean-100,8241,13042,"Book VI, Chapter I","Knickerbocker's History of New York, Vol. 2", F , Maria Kasper
+295445,8718,train-clean-360,8244,22925,Abraham Lincoln's Forefathers,Story of Young Abraham Lincoln, F , Deena Rhoads
+295710,8772,train-clean-360,6416,16726,Sand- Chapter 10,Four Weird Tales, M , Martin Reyto
+295756,8635,train-clean-360,8259,36183,Youth,Life of George Washington in Words of One Syllable, M , ACBowgus
+295947,7794,train-clean-100,8268,15164,The Grateful Foxes,Folk Tales Every Child Should Know, F , mlcui
+296078,8677,train-clean-360,8274,43898,Little Florence,Florence Nightingale the Angel of the Crimea, F , KHand
+296159,8713,train-clean-360,8279,29766,Chapter 10,Audrey Craven, M , Expatriate
+296395,8057,train-clean-360,8290,43930,General Characteristics,"Cat: Its Natural History, Varieties and Management", F , Linda Dougherty
+296465,8758,train-clean-360,8295,43790,"Chapter I. Of the reason why this Book was written, and of several sorts of Cats which are not strictly Zoological",Book of Cats, M , Krzysztof Rowinski
+298025,3374,train-clean-100,8361,12060,Prologue/Confessions of an Awkward Man (Julius to Lucinda),Lucinda, M , Craig Campbell
+298545,8838,train-clean-100,8386,10446,"The Croxley Master - I, part 1",Green Flag and Other Stories of War and Sport, M , Kevin Owens
+300047,8713,train-clean-360,8437,13409,Chapter 06,Ward No. 6, M , Expatriate
+300208,5985,train-clean-360,8444,472,An Injudicious Payment,House Behind the Cedars, M , James K. White
+300234,8879,train-clean-360,8445,29886,The Descent of the Fraser River,Chronicles of Canada Volume 22 - Pioneers of the Pacific Coast: A Chronicle of Sea Rovers and Fur Hunters, M , Son of the Exiles
+300880,6064,train-clean-100,8473,44326,Chapter 10,Wanted: A Husband, F , Deborah Knight
+301693,8113,train-clean-360,8514,16134,The Shadow of the Thunder-Oak,First Christmas Tree, F , PennyAnn
+302000,4837,train-clean-360,8532,6884,Chapter 2,Sleeping Fires, F , Sharon Kilmer
+302111,8713,train-clean-360,8534,25953,Runo 08,"Kalevala, The Land of the Heroes (Kirby translation)", M , Expatriate
+302196,8842,dev-clean,8536,41085,Prefatory Note and Introduction,New Life (La vita nuova), F , Mary J
+302395,8855,train-clean-360,8547,21769,A Lilt of the Road,Songs of the Road, M , Eric Metzler
+304534,7730,train-clean-360,8625,26033,Early Lessons in the Life of Faith,How I Know God Answers Prayer, F , Fiddlesticks
+304647,8842,dev-clean,8629,10314,Campanella XVI-XXX,Sonnets of Michael Angelo Buonarroti and Tommaso Campanella, F , Mary J
+305212,8630,train-clean-100,8645,35941,How Augustine Went to Carthage and How Patricius Died a Christian Death,Life of Saint Monica, M , Eduardo
